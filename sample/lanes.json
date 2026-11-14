@@ -1,0 +1,19 @@
+{
+ "lanes": {
+  "continental": ["opus", 3, 2, "Example Regional Archive: scanned parish registers (read the handwriting)"],
+  "british-isles": ["sonnet", 3, 2, "Example National Census Index and civil registration indexes"],
+  "north-america": ["sonnet", 3, 3, "Example National Census Index; state vital-record indexes; headstone photos"],
+  "link-audit": ["sonnet", 4, 4, "a record naming this person's parents (census household, marriage, death record, obituary)"],
+  "date-fix": ["sonnet", 4, 4, "the record that shows which of two conflicting dates is right (research/LINT*.md)"]
+ },
+ "regions": [
+  ["continental", "denmark|france|netherlands|germany|bremen|hamburg|rotterdam|copenhagen|bordeaux|lyon"],
+  ["british-isles", "england|scotland|ireland|united kingdom|liverpool"],
+  ["north-america", "united states|canada|nebraska|oregon|washington|illinois|minnesota|missouri|new york|manitoba|ontario"]
+ ],
+ "us_regex": "united states|canada",
+ "lane_override": {},
+ "blocked": {},
+ "contest_real": {},
+ "contest_merge": {}
+}

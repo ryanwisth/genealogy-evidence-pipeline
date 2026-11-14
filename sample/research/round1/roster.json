@@ -1,0 +1,13 @@
+[
+ {
+  "lane": "lane-a",
+  "model": "sonnet",
+  "route": "Example Regional Archive registers and census index",
+  "label": "lane-a-1",
+  "ids": [
+   "@I35@",
+   "@I41@",
+   "@I25@"
+  ]
+ }
+]

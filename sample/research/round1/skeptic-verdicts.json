@@ -1,0 +1,213 @@
+{
+ "results": [
+  {
+   "lane": "lane-a",
+   "verdict": {
+    "verdicts": [
+     {
+      "ref": "new_people:lane-a-1:N1",
+      "verdict": "accept",
+      "reason": "father named in the baptism",
+      "source_checked": "gate excerpt of S1"
+     },
+     {
+      "ref": "new_people:lane-a-1:N2",
+      "verdict": "accept",
+      "reason": "mother named in the baptism",
+      "source_checked": "gate excerpt of S1"
+     },
+     {
+      "ref": "parent_links:@I35@",
+      "verdict": "accept",
+      "reason": "birth date and names agree",
+      "source_checked": "gate excerpt of S1"
+     },
+     {
+      "ref": "new_people:lane-a-1:N3",
+      "verdict": "accept",
+      "reason": "household head",
+      "source_checked": "gate excerpt of S2"
+     },
+     {
+      "ref": "new_people:lane-a-1:N4",
+      "verdict": "accept with edit",
+      "reason": "the census gives only her married surname; maiden name not proven here",
+      "source_checked": "gate excerpt of S2"
+     },
+     {
+      "ref": "parent_links:@I41@",
+      "verdict": "accept",
+      "reason": "age and surname agree",
+      "source_checked": "gate excerpt of S2"
+     },
+     {
+      "ref": "new_people:lane-a-1:N5",
+      "verdict": "reject",
+      "reason": "the register names Pierre Castellune and Ursula Brimsworth, not the quoted parents",
+      "source_checked": "saved page S3 (gate: quote-missing)"
+     },
+     {
+      "ref": "parent_links:@I25@",
+      "verdict": "reject",
+      "reason": "rests on the misquoted baptism",
+      "source_checked": "saved page S3"
+     },
+     {
+      "ref": "facts_on_existing:@I35@:CHR:14 MAR 1852",
+      "verdict": "accept",
+      "reason": "the baptism",
+      "source_checked": "gate excerpt of S1"
+     },
+     {
+      "ref": "facts_on_existing:@I41@:CENS:1880",
+      "verdict": "accept",
+      "reason": "listed as daughter",
+      "source_checked": "gate excerpt of S2"
+     },
+     {
+      "ref": "facts_on_existing:@I25@:BURI:9 JUN 1834",
+      "verdict": "reject",
+      "reason": "could not re-open the source; no saved page",
+      "source_checked": "S4 (gate: not-fetched)"
+     }
+    ],
+    "ledger": {
+     "sources": [
+      {
+       "sid": "lane-a-1:S1",
+       "title": "Baptisms 1852, St. Andrew's (invented)",
+       "repository": "Example Regional Archive",
+       "url": "https://records.example.org/bap/1852-031",
+       "kind": "parish register transcription",
+       "detail": "vol. 4, p. 31, entry 12",
+       "quote": "14 March 1852 Louisa, daughter of Henri Druvelle, cooper, and Jeanne Saltmere, born 12 March"
+      },
+      {
+       "sid": "lane-a-1:S2",
+       "title": "Census 1880, district 7 (invented)",
+       "repository": "Example National Census Index",
+       "url": "https://records.example.org/census/1880/d7-p112",
+       "kind": "census transcription",
+       "detail": "district 7, sheet 112, line 18",
+       "quote": "Jacob Orbeline head 41 farmer; Marta Orbeline wife 38; Anna Orbeline daughter 4"
+      }
+     ],
+     "people": [
+      {
+       "tid": "lane-a-1:N1",
+       "given": "Henri",
+       "surname": "Druvelle",
+       "sex": "M",
+       "events": [
+        {
+         "tag": "OCCU",
+         "date": "1852",
+         "place": "",
+         "detail": "cooper",
+         "sids": [
+          "lane-a-1:S1"
+         ]
+        }
+       ],
+       "note": "Father in Louisa's baptism: birth date 12 March 1852 and both names match."
+      },
+      {
+       "tid": "lane-a-1:N2",
+       "given": "Jeanne",
+       "surname": "Saltmere",
+       "sex": "F",
+       "events": [],
+       "note": "Mother in Louisa's baptism."
+      },
+      {
+       "tid": "lane-a-1:N3",
+       "given": "Jacob",
+       "surname": "Orbeline",
+       "sex": "M",
+       "events": [
+        {
+         "tag": "BIRT",
+         "date": "ABT 1839",
+         "place": "",
+         "sids": [
+          "lane-a-1:S2"
+         ]
+        }
+       ],
+       "note": "Head of the 1880 household listing Anna, 4."
+      },
+      {
+       "tid": "lane-a-1:N4",
+       "given": "Marta",
+       "surname": "",
+       "sex": "F",
+       "events": [
+        {
+         "tag": "BIRT",
+         "date": "ABT 1842",
+         "place": "",
+         "sids": [
+          "lane-a-1:S2"
+         ]
+        }
+       ],
+       "note": "Wife in the same household. Maiden name not proven by this record (medium confidence)."
+      }
+     ],
+     "families": [
+      {
+       "husb": "lane-a-1:N1",
+       "wife": "lane-a-1:N2",
+       "children": [
+        "@I35@"
+       ],
+       "sids": [
+        "lane-a-1:S1"
+       ]
+      },
+      {
+       "husb": "lane-a-1:N3",
+       "wife": "lane-a-1:N4",
+       "children": [
+        "@I41@"
+       ],
+       "sids": [
+        "lane-a-1:S2"
+       ]
+      }
+     ],
+     "facts": [
+      {
+       "on": "@I35@",
+       "tag": "CHR",
+       "date": "14 MAR 1852",
+       "place": "St. Andrew's",
+       "sids": [
+        "lane-a-1:S1"
+       ]
+      },
+      {
+       "on": "@I41@",
+       "tag": "CENS",
+       "date": "1880",
+       "place": "District 7",
+       "sids": [
+        "lane-a-1:S2"
+       ]
+      }
+     ],
+     "notes": [
+      {
+       "on": "@I25@",
+       "text": "A 1782 baptism of a Mary Castellune names Pierre Castellune and Ursula Brimsworth as parents; it was proposed as hers with other names and rejected. Identity with this Mary is not established."
+      }
+     ]
+    },
+    "disputes": [],
+    "missed": [
+     "S4 burial: no saved page and no fetch; re-open before proposing again"
+    ]
+   }
+  }
+ ]
+}

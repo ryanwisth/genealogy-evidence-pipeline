@@ -1,0 +1,6102 @@
+0 HEAD
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 SOUR FAMILY_TREE_3D_SAMPLE
+2 NAME make_sample_family.py
+1 NOTE Invented demo data. Every person in this file is fictional.
+0 @I1@ INDI
+1 NAME Johann /Varnquist/
+2 GIVN Johann
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 5 JUL 1640
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE 3 SEP 1702
+2 PLAC Bremen, Germany
+1 OCCU Farmer
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Margaret /Kestrander/
+2 GIVN Margaret
+2 SURN Kestrander
+1 SEX F
+1 BIRT
+2 DATE 19 JAN 1640
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE ABT 1730
+2 PLAC Bremen, Germany
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Frederick /Varnquist/
+2 GIVN Frederick
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 14 FEB 1672
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 18 JUL 1755
+2 PLAC Copenhagen, Denmark
+1 OCCU Clerk
+1 FAMC @F1@
+1 FAMS @F2@
+0 @I4@ INDI
+1 NAME Eva /Varnquist/
+2 GIVN Eva
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 19 FEB 1673
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 1754
+2 PLAC Copenhagen, Denmark
+1 OCCU Engineer
+1 FAMC @F1@
+1 FAMS @F16@
+0 @I5@ INDI
+1 NAME Albert /Varnquist/
+2 GIVN Albert
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 2 OCT 1674
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 2 APR 1735
+2 PLAC Copenhagen, Denmark
+1 FAMC @F1@
+1 FAMS @F18@
+0 @I6@ INDI
+1 NAME Eva /Ashgrove-Lunt/
+2 GIVN Eva
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE 28 MAR 1674
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 5 SEP 1764
+2 PLAC Bremen, Germany
+1 FAMS @F2@
+0 @I7@ INDI
+1 NAME William /Varnquist/
+2 GIVN William
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 10 SEP 1697
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE ABT 1766
+2 PLAC Bordeaux, France
+1 FAMC @F2@
+1 FAMS @F3@
+0 @I8@ INDI
+1 NAME Elizabeth /Varnquist/
+2 GIVN Elizabeth
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 21 APR 1700
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 18 DEC 1786
+2 PLAC Dublin, Ireland
+1 OCCU Teacher
+1 FAMC @F2@
+1 FAMS @F19@
+0 @I9@ INDI
+1 NAME Felix /Varnquist/
+2 GIVN Felix
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 2 OCT 1702
+2 PLAC Oslo, Norway
+1 DEAT
+2 DATE 22 SEP 1779
+2 PLAC Oslo, Norway
+1 FAMC @F2@
+1 FAMS @F84@
+0 @I10@ INDI
+1 NAME Laura /Varnquist/
+2 GIVN Laura
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 11 AUG 1703
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 15 JUN 1775
+2 PLAC Bordeaux, France
+1 OCCU Engineer
+1 FAMC @F2@
+0 @I11@ INDI
+1 NAME Anna /Morrowind/
+2 GIVN Anna
+2 SURN Morrowind
+1 SEX F
+1 BIRT
+2 DATE 26 MAR 1700
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 8 FEB 1752
+2 PLAC Bordeaux, France
+1 OCCU Teacher
+1 FAMS @F3@
+0 @I12@ INDI
+1 NAME Thomas /Varnquist/
+2 GIVN Thomas
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 17 AUG 1724
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 1805
+2 PLAC Bordeaux, France
+1 OCCU Engineer
+1 FAMC @F3@
+1 FAMS @F4@
+0 @I13@ INDI
+1 NAME Helen /Varnquist/
+2 GIVN Helen
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 3 FEB 1725
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 6 JUN 1802
+2 PLAC Bordeaux, France
+1 OCCU Baker
+1 FAMC @F3@
+1 FAMS @F13@
+0 @I14@ INDI
+1 NAME Felix /Varnquist/
+2 GIVN Felix
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 16 JUL 1726
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 22 FEB 1727
+2 PLAC Lyon, France
+1 OCCU Sailor
+1 FAMC @F3@
+1 FAMS @F33@
+0 @I15@ INDI
+1 NAME George /Varnquist/
+2 GIVN George
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 1727
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE ABT 1813
+2 PLAC Bordeaux, France
+1 OCCU Miller
+1 FAMC @F3@
+0 @I16@ INDI
+1 NAME Hugo /Varnquist/
+2 GIVN Hugo
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 20 AUG 1728
+2 PLAC Amsterdam, Netherlands
+1 DEAT
+2 DATE 15 FEB 1796
+2 PLAC Amsterdam, Netherlands
+1 OCCU Farmer
+1 FAMC @F3@
+0 @I17@ INDI
+1 NAME Mary /Ollendrake/
+2 GIVN Mary
+2 SURN Ollendrake
+1 SEX F
+1 BIRT
+2 DATE 1720
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 22 FEB 1797
+2 PLAC Liverpool, England, United Kingdom
+1 FAMS @F4@
+0 @I18@ INDI
+1 NAME Walter /Varnquist/
+2 GIVN Walter
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 23 MAY 1754
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 22 AUG 1820
+2 PLAC Liverpool, England, United Kingdom
+1 OCCU Clerk
+1 FAMC @F4@
+1 FAMS @F5@
+0 @I19@ INDI
+1 NAME John /Varnquist/
+2 GIVN John
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 13 NOV 1755
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 15 JUN 1827
+2 PLAC Rotterdam, Netherlands
+1 OCCU Baker
+1 FAMC @F4@
+1 FAMS @F17@
+0 @I20@ INDI
+1 NAME Daniel /Varnquist/
+2 GIVN Daniel
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 4 AUG 1757
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 25 MAY 1792
+2 PLAC Hamburg, Germany
+1 OCCU Clerk
+1 FAMC @F4@
+1 FAMS @F101@
+0 @I21@ INDI
+1 NAME Clara /Brennholt/
+2 GIVN Clara
+2 SURN Brennholt
+1 SEX F
+1 BIRT
+2 DATE 8 JUL 1757
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 28 AUG 1834
+2 PLAC Liverpool, England, United Kingdom
+1 FAMS @F5@
+0 @I22@ INDI
+1 NAME Robert /Varnquist/
+2 GIVN Robert
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 15 JUL 1785
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 5 JUL 1858
+2 PLAC Liverpool, England, United Kingdom
+1 FAMC @F5@
+1 FAMS @F6@
+0 @I23@ INDI
+1 NAME Ruth /Varnquist/
+2 GIVN Ruth
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE ABT 1788
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 12 NOV 1878
+2 PLAC Denver, Colorado, United States
+1 OCCU Engineer
+1 FAMC @F5@
+0 @I24@ INDI
+1 NAME Edward /Varnquist/
+2 GIVN Edward
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 1789
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 6 MAR 1875
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F5@
+0 @I25@ INDI
+1 NAME Mary /Castellune/
+2 GIVN Mary
+2 SURN Castellune
+1 SEX F
+1 BIRT
+2 DATE 8 JAN 1782
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 19 MAR 1834
+2 PLAC Liverpool, England, United Kingdom
+1 OCCU Sailor
+1 FAMS @F6@
+0 @I26@ INDI
+1 NAME Frederick /Varnquist/
+2 GIVN Frederick
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 1 MAR 1819
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 12 OCT 1879
+2 PLAC Copenhagen, Denmark
+1 FAMC @F6@
+1 FAMS @F7@
+0 @I27@ INDI
+1 NAME Nora /Varnquist/
+2 GIVN Nora
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 5 DEC 1822
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 1823
+2 PLAC Liverpool, England, United Kingdom
+1 FAMC @F6@
+1 FAMS @F37@
+0 @I28@ INDI
+1 NAME Elizabeth /Varnquist/
+2 GIVN Elizabeth
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 24 JAN 1823
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 28 NOV 1824
+2 PLAC Liverpool, England, United Kingdom
+1 OCCU Miller
+1 FAMC @F6@
+1 FAMS @F25@
+0 @I29@ INDI
+1 NAME Louisa /Varnquist/
+2 GIVN Louisa
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE ABT 1825
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 4 AUG 1915
+2 PLAC New York, New York, United States
+1 OCCU Carpenter
+1 FAMC @F6@
+0 @I30@ INDI
+1 NAME Elizabeth /Varnquist/
+2 GIVN Elizabeth
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 2 APR 1828
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 7 AUG 1914
+2 PLAC Omaha, Nebraska, United States
+1 FAMC @F6@
+1 FAMS @F14@
+0 @I31@ INDI
+1 NAME Catherine /Teshmore/
+2 GIVN Catherine
+2 SURN Teshmore
+1 SEX F
+1 BIRT
+2 DATE 11 OCT 1822
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 1 OCT 1830
+2 PLAC Hamburg, Germany
+1 OCCU Blacksmith
+1 FAMS @F7@
+0 @I32@ INDI
+1 NAME Catherine /Varnquist/
+2 GIVN Catherine
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 4 JUN 1844
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 3 APR 1934
+2 PLAC Winnipeg, Manitoba, Canada
+1 OCCU Printer
+1 FAMC @F7@
+1 FAMS @F53@
+0 @I33@ INDI
+1 NAME Frances /Varnquist/
+2 GIVN Frances
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 5 NOV 1847
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 12 OCT 1933
+2 PLAC Omaha, Nebraska, United States
+1 OCCU Sailor
+1 FAMC @F7@
+1 FAMS @F15@
+0 @I34@ INDI
+1 NAME Robert /Varnquist/
+2 GIVN Robert
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 4 FEB 1849
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 1930
+2 PLAC Hamburg, Germany
+1 FAMC @F7@
+1 FAMS @F8@
+0 @I35@ INDI
+1 NAME Louisa /Druvelle/
+2 GIVN Louisa
+2 SURN Druvelle
+1 SEX F
+1 BIRT
+2 DATE 16 MAY 1852
+2 PLAC New York, New York, United States
+1 DEAT
+2 DATE 4 DEC 1920
+2 PLAC New York, New York, United States
+1 FAMS @F8@
+0 @I36@ INDI
+1 NAME Peter /Varnquist/
+2 GIVN Peter
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 9 AUG 1876
+2 PLAC Minneapolis, Minnesota, United States
+1 DEAT
+2 DATE ABT 1956
+2 PLAC Minneapolis, Minnesota, United States
+1 OCCU Sailor
+1 FAMC @F8@
+1 FAMS @F9@
+0 @I37@ INDI
+1 NAME Frederick /Varnquist/
+2 GIVN Frederick
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 17 JUN 1878
+2 PLAC Denver, Colorado, United States
+1 DEAT
+2 DATE 18 JAN 1959
+2 PLAC Minneapolis, Minnesota, United States
+1 FAMC @F8@
+1 FAMS @F21@
+0 @I38@ INDI
+1 NAME Arthur /Varnquist/
+2 GIVN Arthur
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE ABT 1879
+2 PLAC New York, New York, United States
+1 DEAT
+2 DATE 3 DEC 1887
+2 PLAC Portland, Oregon, United States
+1 OCCU Printer
+1 FAMC @F8@
+0 @I39@ INDI
+1 NAME Joseph /Varnquist/
+2 GIVN Joseph
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 1881
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE ABT 1953
+2 PLAC Chicago, Illinois, United States
+1 OCCU Baker
+1 FAMC @F8@
+1 FAMS @F68@
+0 @I40@ INDI
+1 NAME Charles /Varnquist/
+2 GIVN Charles
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 18 SEP 1883
+2 PLAC Chicago, Illinois, United States
+1 DEAT
+2 DATE 8 OCT 1960
+2 PLAC Chicago, Illinois, United States
+1 FAMC @F8@
+0 @I41@ INDI
+1 NAME Anna /Orbeline/
+2 GIVN Anna
+2 SURN Orbeline
+1 SEX F
+1 BIRT
+2 DATE 1876
+2 PLAC Minneapolis, Minnesota, United States
+1 DEAT
+2 DATE 1953
+2 PLAC Minneapolis, Minnesota, United States
+1 OCCU Carpenter
+1 FAMS @F9@
+0 @I42@ INDI
+1 NAME Emma /Varnquist/
+2 GIVN Emma
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 1902
+2 PLAC New York, New York, United States
+1 DEAT
+2 DATE 17 AUG 1937
+2 PLAC New York, New York, United States
+1 FAMC @F9@
+0 @I43@ INDI
+1 NAME Margaret /Varnquist/
+2 GIVN Margaret
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1905
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE ABT 1982
+2 PLAC Omaha, Nebraska, United States
+1 OCCU Blacksmith
+1 FAMC @F9@
+0 @I44@ INDI
+1 NAME Robert /Varnquist/
+2 GIVN Robert
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 20 JUN 1907
+2 PLAC Minneapolis, Minnesota, United States
+1 DEAT
+2 DATE 24 JUN 1987
+2 PLAC Minneapolis, Minnesota, United States
+1 OCCU Engineer
+1 FAMC @F9@
+1 FAMS @F10@
+0 @I45@ INDI
+1 NAME Martha /Velkamp/
+2 GIVN Martha
+2 SURN Velkamp
+1 SEX F
+1 BIRT
+2 DATE ABT 1908
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 8 AUG 1960
+2 PLAC Toronto, Ontario, Canada
+1 FAMS @F10@
+0 @I46@ INDI
+1 NAME David /Varnquist/
+2 GIVN David
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 7 AUG 1937
+2 PLAC Omaha, Nebraska, United States
+1 OCCU Engineer
+1 FAMC @F10@
+1 FAMS @F11@
+0 @I47@ INDI
+1 NAME Nora /Varnquist/
+2 GIVN Nora
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 20 JAN 1939
+2 PLAC Omaha, Nebraska, United States
+1 FAMC @F10@
+1 FAMS @F30@
+0 @I48@ INDI
+1 NAME Thomas /Varnquist/
+2 GIVN Thomas
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 21 JUN 1942
+2 PLAC Portland, Oregon, United States
+1 FAMC @F10@
+1 FAMS @F73@
+0 @I49@ INDI
+1 NAME Helen /Holtzbrand/
+2 GIVN Helen
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE ABT 1934
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 13 DEC 1995
+2 PLAC Winnipeg, Manitoba, Canada
+1 OCCU Tailor
+1 FAMS @F11@
+0 @I50@ INDI
+1 NAME John /Varnquist/
+2 GIVN John
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE ABT 1969
+2 PLAC Minneapolis, Minnesota, United States
+1 OCCU Engineer
+1 FAMC @F11@
+1 FAMS @F12@
+0 @I51@ INDI
+1 NAME Nora /Varnquist/
+2 GIVN Nora
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 26 NOV 1971
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F11@
+1 FAMS @F22@
+0 @I52@ INDI
+1 NAME Elizabeth /Varnquist/
+2 GIVN Elizabeth
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 26 DEC 1972
+2 PLAC Toronto, Ontario, Canada
+1 OCCU Miller
+1 FAMC @F11@
+0 @I53@ INDI
+1 NAME Rose /Castellune/
+2 GIVN Rose
+2 SURN Castellune
+1 SEX F
+1 BIRT
+2 DATE 13 DEC 1966
+2 PLAC Minneapolis, Minnesota, United States
+1 DEAT
+2 DATE 1974
+2 PLAC Seattle, Washington, United States
+1 OCCU Tailor
+1 FAMS @F12@
+0 @I54@ INDI
+1 NAME Clara /Varnquist/
+2 GIVN Clara
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 5 JAN 1994
+2 PLAC Minneapolis, Minnesota, United States
+1 FAMC @F12@
+0 @I55@ INDI
+1 NAME Margaret /Varnquist/
+2 GIVN Margaret
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 15 NOV 1995
+2 PLAC Minneapolis, Minnesota, United States
+1 OCCU Sailor
+1 FAMC @F12@
+0 @I56@ INDI
+1 NAME David /Varnquist/
+2 GIVN David
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 27 OCT 1998
+2 PLAC Minneapolis, Minnesota, United States
+1 OCCU Teacher
+1 FAMC @F12@
+0 @I57@ INDI
+1 NAME David /Quillane/
+2 GIVN David
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 1721
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 18 SEP 1773
+2 PLAC Bordeaux, France
+1 FAMS @F13@
+0 @I58@ INDI
+1 NAME Helen /Quillane/
+2 GIVN Helen
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 1 DEC 1751
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 17 DEC 1812
+2 PLAC Bordeaux, France
+1 FAMC @F13@
+1 FAMS @F48@
+0 @I59@ INDI
+1 NAME Alice /Quillane/
+2 GIVN Alice
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE ABT 1753
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 1754
+2 PLAC Amsterdam, Netherlands
+1 FAMC @F13@
+0 @I60@ INDI
+1 NAME Clara /Quillane/
+2 GIVN Clara
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 9 APR 1755
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 8 OCT 1832
+2 PLAC Rotterdam, Netherlands
+1 OCCU Merchant
+1 FAMC @F13@
+0 @I61@ INDI
+1 NAME Frances /Quillane/
+2 GIVN Frances
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 18 JUL 1756
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE ABT 1817
+2 PLAC Bordeaux, France
+1 FAMC @F13@
+1 FAMS @F43@
+0 @I62@ INDI
+1 NAME Edward /Morrowind/
+2 GIVN Edward
+2 SURN Morrowind
+1 SEX M
+1 BIRT
+2 DATE 15 NOV 1831
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 17 JUL 1921
+2 PLAC Omaha, Nebraska, United States
+1 OCCU Carpenter
+1 FAMS @F14@
+0 @I63@ INDI
+1 NAME Nora /Morrowind/
+2 GIVN Nora
+2 SURN Morrowind
+1 SEX F
+1 BIRT
+2 DATE 1854
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE 5 SEP 1931
+2 PLAC New York, New York, United States
+1 FAMC @F14@
+1 FAMS @F45@
+0 @I64@ INDI
+1 NAME Ruth /Morrowind/
+2 GIVN Ruth
+2 SURN Morrowind
+1 SEX F
+1 BIRT
+2 DATE 28 AUG 1856
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE 1937
+2 PLAC Seattle, Washington, United States
+1 OCCU Engineer
+1 FAMC @F14@
+0 @I65@ INDI
+1 NAME Lena /Morrowind/
+2 GIVN Lena
+2 SURN Morrowind
+1 SEX F
+1 BIRT
+2 DATE ABT 1859
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 20 DEC 1927
+2 PLAC Omaha, Nebraska, United States
+1 OCCU Farmer
+1 FAMC @F14@
+0 @I66@ INDI
+1 NAME Martha /Morrowind/
+2 GIVN Martha
+2 SURN Morrowind
+1 SEX F
+1 BIRT
+2 DATE 2 JUN 1861
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 17 SEP 1951
+2 PLAC Chicago, Illinois, United States
+1 FAMC @F14@
+0 @I67@ INDI
+1 NAME Rose /Morrowind/
+2 GIVN Rose
+2 SURN Morrowind
+1 SEX F
+1 BIRT
+2 DATE 25 FEB 1864
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE ABT 1941
+2 PLAC Portland, Oregon, United States
+1 FAMC @F14@
+1 FAMS @F23@
+0 @I68@ INDI
+1 NAME Charles /Saltmere/
+2 GIVN Charles
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 2 FEB 1843
+2 PLAC Boston, Massachusetts, United States
+1 DEAT
+2 DATE 18 JAN 1915
+2 PLAC New York, New York, United States
+1 OCCU Blacksmith
+1 FAMS @F15@
+0 @I69@ INDI
+1 NAME Albert /Saltmere/
+2 GIVN Albert
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 1873
+2 PLAC Boston, Massachusetts, United States
+1 DEAT
+2 DATE 20 SEP 1941
+2 PLAC Boston, Massachusetts, United States
+1 OCCU Teacher
+1 FAMC @F15@
+0 @I70@ INDI
+1 NAME Frederick /Saltmere/
+2 GIVN Frederick
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 7 DEC 1875
+2 PLAC Boston, Massachusetts, United States
+1 DEAT
+2 DATE 17 SEP 1876
+2 PLAC Omaha, Nebraska, United States
+1 OCCU Tailor
+1 FAMC @F15@
+1 FAMS @F20@
+0 @I71@ INDI
+1 NAME Simon /Saltmere/
+2 GIVN Simon
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 1876
+2 PLAC Boston, Massachusetts, United States
+1 DEAT
+2 DATE 17 MAY 1937
+2 PLAC Toronto, Ontario, Canada
+1 OCCU Miller
+1 FAMC @F15@
+0 @I72@ INDI
+1 NAME Daniel /Pembrask/
+2 GIVN Daniel
+2 SURN Pembrask
+1 SEX M
+1 BIRT
+2 DATE 1673
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 15 MAR 1759
+2 PLAC Copenhagen, Denmark
+1 OCCU Sailor
+1 FAMS @F16@
+0 @I73@ INDI
+1 NAME Joseph /Pembrask/
+2 GIVN Joseph
+2 SURN Pembrask
+1 SEX M
+1 BIRT
+2 DATE 13 AUG 1699
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE 22 APR 1780
+2 PLAC Bremen, Germany
+1 OCCU Sailor
+1 FAMC @F16@
+1 FAMS @F79@
+0 @I74@ INDI
+1 NAME Henry /Pembrask/
+2 GIVN Henry
+2 SURN Pembrask
+1 SEX M
+1 BIRT
+2 DATE 7 NOV 1700
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 4 MAR 1768
+2 PLAC Oslo, Norway
+1 FAMC @F16@
+1 FAMS @F57@
+0 @I75@ INDI
+1 NAME Mary /Pembrask/
+2 GIVN Mary
+2 SURN Pembrask
+1 SEX F
+1 BIRT
+2 DATE 1701
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 9 MAR 1769
+2 PLAC Bergen, Norway
+1 OCCU Sailor
+1 FAMC @F16@
+1 FAMS @F26@
+0 @I76@ INDI
+1 NAME Alice /Castellune/
+2 GIVN Alice
+2 SURN Castellune
+1 SEX F
+1 BIRT
+2 DATE ABT 1751
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE ABT 1819
+2 PLAC Liverpool, England, United Kingdom
+1 OCCU Clerk
+1 FAMS @F17@
+0 @I77@ INDI
+1 NAME Hugo /Varnquist/
+2 GIVN Hugo
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 22 APR 1782
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE 14 SEP 1783
+2 PLAC Bremen, Germany
+1 FAMC @F17@
+0 @I78@ INDI
+1 NAME Emma /Ellisandt/
+2 GIVN Emma
+2 SURN Ellisandt
+1 SEX F
+1 BIRT
+2 DATE 14 APR 1675
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 3 DEC 1736
+2 PLAC Copenhagen, Denmark
+1 FAMS @F18@
+0 @I79@ INDI
+1 NAME David /Varnquist/
+2 GIVN David
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 11 SEP 1709
+2 PLAC Amsterdam, Netherlands
+1 DEAT
+2 DATE 23 JAN 1717
+2 PLAC Copenhagen, Denmark
+1 FAMC @F18@
+0 @I80@ INDI
+1 NAME Frederick /Varnquist/
+2 GIVN Frederick
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 17 OCT 1711
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 3 FEB 1783
+2 PLAC Bordeaux, France
+1 FAMC @F18@
+1 FAMS @F40@
+0 @I81@ INDI
+1 NAME Albert /Ashgrove-Lunt/
+2 GIVN Albert
+2 SURN Ashgrove-Lunt
+1 SEX M
+1 BIRT
+2 DATE 1702
+2 PLAC Bergen, Norway
+1 DEAT
+2 DATE ABT 1770
+2 PLAC Bergen, Norway
+1 OCCU Teacher
+1 FAMS @F19@
+0 @I82@ INDI
+1 NAME Louisa /Ashgrove-Lunt/
+2 GIVN Louisa
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE 2 MAR 1724
+2 PLAC Bergen, Norway
+1 DEAT
+2 DATE 5 JUL 1796
+2 PLAC Gothenburg, Sweden
+1 OCCU Baker
+1 FAMC @F19@
+1 FAMS @F81@
+0 @I83@ INDI
+1 NAME Louisa /Ashgrove-Lunt/
+2 GIVN Louisa
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE 1727
+2 PLAC Amsterdam, Netherlands
+1 DEAT
+2 DATE ABT 1799
+2 PLAC Rotterdam, Netherlands
+1 FAMC @F19@
+1 FAMS @F80@
+0 @I84@ INDI
+1 NAME Daniel /Ashgrove-Lunt/
+2 GIVN Daniel
+2 SURN Ashgrove-Lunt
+1 SEX M
+1 BIRT
+2 DATE 17 OCT 1728
+2 PLAC Bergen, Norway
+1 DEAT
+2 DATE 11 FEB 1789
+2 PLAC Bergen, Norway
+1 FAMC @F19@
+1 FAMS @F32@
+0 @I85@ INDI
+1 NAME Ruth /Quillane/
+2 GIVN Ruth
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 26 DEC 1875
+2 PLAC Boston, Massachusetts, United States
+1 DEAT
+2 DATE 3 MAY 1936
+2 PLAC Boston, Massachusetts, United States
+1 FAMS @F20@
+0 @I86@ INDI
+1 NAME John /Saltmere/
+2 GIVN John
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 1900
+2 PLAC Boston, Massachusetts, United States
+1 DEAT
+2 DATE ABT 1952
+2 PLAC Boston, Massachusetts, United States
+1 FAMC @F20@
+0 @I87@ INDI
+1 NAME Martin /Saltmere/
+2 GIVN Martin
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE ABT 1902
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE ABT 1974
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F20@
+0 @I88@ INDI
+1 NAME David /Saltmere/
+2 GIVN David
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 18 JUL 1904
+2 PLAC Boston, Massachusetts, United States
+1 DEAT
+2 DATE ABT 1965
+2 PLAC Boston, Massachusetts, United States
+1 FAMC @F20@
+0 @I89@ INDI
+1 NAME Alice /Saltmere/
+2 GIVN Alice
+2 SURN Saltmere
+1 SEX F
+1 BIRT
+2 DATE 17 DEC 1905
+2 PLAC Boston, Massachusetts, United States
+1 DEAT
+2 DATE 4 MAR 1957
+2 PLAC Toronto, Ontario, Canada
+1 FAMC @F20@
+1 FAMS @F75@
+0 @I90@ INDI
+1 NAME Laura /Ollendrake/
+2 GIVN Laura
+2 SURN Ollendrake
+1 SEX F
+1 BIRT
+2 DATE 6 APR 1875
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 1961
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMS @F21@
+0 @I91@ INDI
+1 NAME Peter /Varnquist/
+2 GIVN Peter
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 7 MAY 1902
+2 PLAC St. Louis, Missouri, United States
+1 DEAT
+2 DATE 22 MAR 1979
+2 PLAC Denver, Colorado, United States
+1 OCCU Sailor
+1 FAMC @F21@
+1 FAMS @F47@
+0 @I92@ INDI
+1 NAME George /Varnquist/
+2 GIVN George
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 26 JAN 1905
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE ABT 1977
+2 PLAC Chicago, Illinois, United States
+1 FAMC @F21@
+1 FAMS @F27@
+0 @I93@ INDI
+1 NAME Felix /Varnquist/
+2 GIVN Felix
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 17 SEP 1908
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 1976
+2 PLAC Omaha, Nebraska, United States
+1 OCCU Sailor
+1 FAMC @F21@
+1 FAMS @F24@
+0 @I94@ INDI
+1 NAME Frances /Varnquist/
+2 GIVN Frances
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 15 FEB 1911
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 21 JUL 1946
+2 PLAC Winnipeg, Manitoba, Canada
+1 OCCU Baker
+1 FAMC @F21@
+1 FAMS @F78@
+0 @I95@ INDI
+1 NAME Alice /Varnquist/
+2 GIVN Alice
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 18 JUL 1912
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE ABT 1920
+2 PLAC Portland, Oregon, United States
+1 FAMC @F21@
+0 @I96@ INDI
+1 NAME Walter /Varnquist/
+2 GIVN Walter
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 8 JUN 1913
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 23 DEC 1914
+2 PLAC Boston, Massachusetts, United States
+1 OCCU Blacksmith
+1 FAMC @F21@
+0 @I97@ INDI
+1 NAME Hugo /Holtzbrand/
+2 GIVN Hugo
+2 SURN Holtzbrand
+1 SEX M
+1 BIRT
+2 DATE 13 JUN 1970
+2 PLAC Toronto, Ontario, Canada
+1 FAMS @F22@
+0 @I98@ INDI
+1 NAME Alice /Holtzbrand/
+2 GIVN Alice
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE 2004
+2 PLAC Toronto, Ontario, Canada
+1 FAMC @F22@
+0 @I99@ INDI
+1 NAME Thomas /Corvantis/
+2 GIVN Thomas
+2 SURN Corvantis
+1 SEX M
+1 BIRT
+2 DATE 21 DEC 1860
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE ABT 1921
+2 PLAC Omaha, Nebraska, United States
+1 FAMS @F23@
+0 @I100@ INDI
+1 NAME Felix /Corvantis/
+2 GIVN Felix
+2 SURN Corvantis
+1 SEX M
+1 BIRT
+2 DATE 22 JUL 1891
+2 PLAC Denver, Colorado, United States
+1 DEAT
+2 DATE 1952
+2 PLAC Denver, Colorado, United States
+1 OCCU Nurse
+1 FAMC @F23@
+0 @I101@ INDI
+1 NAME Emma /Marrowby/
+2 GIVN Emma
+2 SURN Marrowby
+1 SEX F
+1 BIRT
+2 DATE 8 DEC 1909
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE 15 MAR 1970
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMS @F24@
+0 @I102@ INDI
+1 NAME Charles /Varnquist/
+2 GIVN Charles
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 15 JAN 1936
+2 PLAC Seattle, Washington, United States
+1 FAMC @F24@
+1 FAMS @F34@
+0 @I103@ INDI
+1 NAME Laura /Varnquist/
+2 GIVN Laura
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 11 SEP 1939
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE 2 MAY 2000
+2 PLAC Portland, Oregon, United States
+1 OCCU Farmer
+1 FAMC @F24@
+1 FAMS @F36@
+0 @I104@ INDI
+1 NAME Eva /Varnquist/
+2 GIVN Eva
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 6 JAN 1941
+2 PLAC Portland, Oregon, United States
+1 FAMC @F24@
+1 FAMS @F28@
+0 @I105@ INDI
+1 NAME Henry /Marrowby/
+2 GIVN Henry
+2 SURN Marrowby
+1 SEX M
+1 BIRT
+2 DATE 3 AUG 1819
+2 PLAC Toronto, Ontario, Canada
+1 DEAT
+2 DATE 21 APR 1827
+2 PLAC Toronto, Ontario, Canada
+1 OCCU Tailor
+1 FAMS @F25@
+0 @I106@ INDI
+1 NAME Samuel /Marrowby/
+2 GIVN Samuel
+2 SURN Marrowby
+1 SEX M
+1 BIRT
+2 DATE 25 JAN 1852
+2 PLAC Toronto, Ontario, Canada
+1 DEAT
+2 DATE 27 FEB 1924
+2 PLAC Chicago, Illinois, United States
+1 FAMC @F25@
+0 @I107@ INDI
+1 NAME Lena /Marrowby/
+2 GIVN Lena
+2 SURN Marrowby
+1 SEX F
+1 BIRT
+2 DATE 19 JAN 1855
+2 PLAC Toronto, Ontario, Canada
+1 DEAT
+2 DATE 10 MAY 1916
+2 PLAC Toronto, Ontario, Canada
+1 OCCU Baker
+1 FAMC @F25@
+1 FAMS @F62@
+0 @I108@ INDI
+1 NAME Edward /Holtzbrand/
+2 GIVN Edward
+2 SURN Holtzbrand
+1 SEX M
+1 BIRT
+2 DATE 3 OCT 1704
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 1794
+2 PLAC Amsterdam, Netherlands
+1 FAMS @F26@
+0 @I109@ INDI
+1 NAME George /Holtzbrand/
+2 GIVN George
+2 SURN Holtzbrand
+1 SEX M
+1 BIRT
+2 DATE 23 OCT 1733
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 11 DEC 1805
+2 PLAC Lyon, France
+1 FAMC @F26@
+1 FAMS @F31@
+0 @I110@ INDI
+1 NAME Clara /Holtzbrand/
+2 GIVN Clara
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE ABT 1734
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 21 MAR 1820
+2 PLAC Liverpool, England, United Kingdom
+1 OCCU Printer
+1 FAMC @F26@
+1 FAMS @F52@
+0 @I111@ INDI
+1 NAME Sarah /Holtzbrand/
+2 GIVN Sarah
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE 27 DEC 1737
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 1823
+2 PLAC Copenhagen, Denmark
+1 FAMC @F26@
+1 FAMS @F29@
+0 @I112@ INDI
+1 NAME Ruth /Thornquay/
+2 GIVN Ruth
+2 SURN Thornquay
+1 SEX F
+1 BIRT
+2 DATE 26 SEP 1904
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 17 SEP 1972
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMS @F27@
+0 @I113@ INDI
+1 NAME Nora /Varnquist/
+2 GIVN Nora
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 27 JAN 1928
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 1936
+2 PLAC Winnipeg, Manitoba, Canada
+1 OCCU Blacksmith
+1 FAMC @F27@
+1 FAMS @F65@
+0 @I114@ INDI
+1 NAME Rose /Varnquist/
+2 GIVN Rose
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 1931
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 8 FEB 1992
+2 PLAC Winnipeg, Manitoba, Canada
+1 OCCU Farmer
+1 FAMC @F27@
+1 FAMS @F69@
+0 @I115@ INDI
+1 NAME Peter /Varnquist/
+2 GIVN Peter
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 5 NOV 1932
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 4 JUL 2022
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F27@
+0 @I116@ INDI
+1 NAME Felix /Thornquay/
+2 GIVN Felix
+2 SURN Thornquay
+1 SEX M
+1 BIRT
+2 DATE 1937
+2 PLAC Omaha, Nebraska, United States
+1 FAMS @F28@
+0 @I117@ INDI
+1 NAME Walter /Thornquay/
+2 GIVN Walter
+2 SURN Thornquay
+1 SEX M
+1 BIRT
+2 DATE 21 SEP 1966
+2 PLAC Chicago, Illinois, United States
+1 FAMC @F28@
+0 @I118@ INDI
+1 NAME Mary /Thornquay/
+2 GIVN Mary
+2 SURN Thornquay
+1 SEX F
+1 BIRT
+2 DATE 16 MAY 1968
+2 PLAC Seattle, Washington, United States
+1 OCCU Farmer
+1 FAMC @F28@
+0 @I119@ INDI
+1 NAME Albert /Thornquay/
+2 GIVN Albert
+2 SURN Thornquay
+1 SEX M
+1 BIRT
+2 DATE 26 FEB 1969
+2 PLAC Omaha, Nebraska, United States
+1 FAMC @F28@
+1 FAMS @F42@
+0 @I120@ INDI
+1 NAME Hugo /Quillane/
+2 GIVN Hugo
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 17 SEP 1739
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 17 FEB 1791
+2 PLAC Copenhagen, Denmark
+1 OCCU Clerk
+1 FAMS @F29@
+0 @I121@ INDI
+1 NAME Ruth /Quillane/
+2 GIVN Ruth
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 16 MAY 1771
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 1857
+2 PLAC Amsterdam, Netherlands
+1 FAMC @F29@
+0 @I122@ INDI
+1 NAME Arthur /Quillane/
+2 GIVN Arthur
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 25 APR 1773
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 21 AUG 1825
+2 PLAC Bordeaux, France
+1 OCCU Blacksmith
+1 FAMC @F29@
+1 FAMS @F44@
+0 @I123@ INDI
+1 NAME Anna /Quillane/
+2 GIVN Anna
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 13 FEB 1774
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 22 MAY 1860
+2 PLAC Bordeaux, France
+1 FAMC @F29@
+1 FAMS @F60@
+0 @I124@ INDI
+1 NAME John /Brimsworth/
+2 GIVN John
+2 SURN Brimsworth
+1 SEX M
+1 BIRT
+2 DATE 1937
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 3 OCT 2014
+2 PLAC Omaha, Nebraska, United States
+1 FAMS @F30@
+0 @I125@ INDI
+1 NAME Lena /Brimsworth/
+2 GIVN Lena
+2 SURN Brimsworth
+1 SEX F
+1 BIRT
+2 DATE 9 NOV 1973
+2 PLAC Omaha, Nebraska, United States
+1 FAMC @F30@
+1 FAMS @F35@
+0 @I126@ INDI
+1 NAME Emma /Calderhoff/
+2 GIVN Emma
+2 SURN Calderhoff
+1 SEX F
+1 BIRT
+2 DATE 10 OCT 1731
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 1 AUG 1817
+2 PLAC Rotterdam, Netherlands
+1 OCCU Blacksmith
+1 FAMS @F31@
+0 @I127@ INDI
+1 NAME Simon /Holtzbrand/
+2 GIVN Simon
+2 SURN Holtzbrand
+1 SEX M
+1 BIRT
+2 DATE 9 NOV 1763
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 7 NOV 1853
+2 PLAC Rotterdam, Netherlands
+1 FAMC @F31@
+1 FAMS @F61@
+0 @I128@ INDI
+1 NAME Helen /Holtzbrand/
+2 GIVN Helen
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE 23 SEP 1766
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 15 AUG 1838
+2 PLAC Rotterdam, Netherlands
+1 OCCU Teacher
+1 FAMC @F31@
+0 @I129@ INDI
+1 NAME Walter /Holtzbrand/
+2 GIVN Walter
+2 SURN Holtzbrand
+1 SEX M
+1 BIRT
+2 DATE 1769
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 10 FEB 1837
+2 PLAC Lyon, France
+1 FAMC @F31@
+0 @I130@ INDI
+1 NAME Grace /Holtzbrand/
+2 GIVN Grace
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE ABT 1771
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 27 SEP 1852
+2 PLAC Rotterdam, Netherlands
+1 OCCU Engineer
+1 FAMC @F31@
+1 FAMS @F39@
+0 @I131@ INDI
+1 NAME Sarah /Morrowind/
+2 GIVN Sarah
+2 SURN Morrowind
+1 SEX F
+1 BIRT
+2 DATE ABT 1728
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 7 APR 1814
+2 PLAC Rotterdam, Netherlands
+1 FAMS @F32@
+0 @I132@ INDI
+1 NAME Grace /Ashgrove-Lunt/
+2 GIVN Grace
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE 3 MAR 1754
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 9 JUN 1840
+2 PLAC Copenhagen, Denmark
+1 OCCU Carpenter
+1 FAMC @F32@
+1 FAMS @F67@
+0 @I133@ INDI
+1 NAME Joseph /Ashgrove-Lunt/
+2 GIVN Joseph
+2 SURN Ashgrove-Lunt
+1 SEX M
+1 BIRT
+2 DATE 27 NOV 1755
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 4 DEC 1763
+2 PLAC Copenhagen, Denmark
+1 FAMC @F32@
+1 FAMS @F38@
+0 @I134@ INDI
+1 NAME Catherine /Ashgrove-Lunt/
+2 GIVN Catherine
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE 16 AUG 1758
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 6 JAN 1759
+2 PLAC Copenhagen, Denmark
+1 FAMC @F32@
+1 FAMS @F93@
+0 @I135@ INDI
+1 NAME Edward /Ashgrove-Lunt/
+2 GIVN Edward
+2 SURN Ashgrove-Lunt
+1 SEX M
+1 BIRT
+2 DATE 1759
+2 PLAC Oslo, Norway
+1 DEAT
+2 DATE 24 MAR 1836
+2 PLAC Oslo, Norway
+1 OCCU Teacher
+1 FAMC @F32@
+0 @I136@ INDI
+1 NAME Frederick /Ashgrove-Lunt/
+2 GIVN Frederick
+2 SURN Ashgrove-Lunt
+1 SEX M
+1 BIRT
+2 DATE 13 JUN 1760
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 11 JAN 1841
+2 PLAC Copenhagen, Denmark
+1 OCCU Miller
+1 FAMC @F32@
+0 @I137@ INDI
+1 NAME Simon /Ashgrove-Lunt/
+2 GIVN Simon
+2 SURN Ashgrove-Lunt
+1 SEX M
+1 BIRT
+2 DATE 11 JUL 1763
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 7 DEC 1764
+2 PLAC Rotterdam, Netherlands
+1 OCCU Miller
+1 FAMC @F32@
+0 @I138@ INDI
+1 NAME Margaret /Pembrask/
+2 GIVN Margaret
+2 SURN Pembrask
+1 SEX F
+1 BIRT
+2 DATE 24 MAY 1724
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 3 JUL 1801
+2 PLAC Bordeaux, France
+1 OCCU Nurse
+1 FAMS @F33@
+0 @I139@ INDI
+1 NAME Margaret /Varnquist/
+2 GIVN Margaret
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 28 OCT 1750
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 14 MAY 1818
+2 PLAC Bordeaux, France
+1 OCCU Miller
+1 FAMC @F33@
+0 @I140@ INDI
+1 NAME Ruth /Castellune/
+2 GIVN Ruth
+2 SURN Castellune
+1 SEX F
+1 BIRT
+2 DATE ABT 1935
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE 22 MAY 2003
+2 PLAC Seattle, Washington, United States
+1 OCCU Blacksmith
+1 FAMS @F34@
+0 @I141@ INDI
+1 NAME Charles /Varnquist/
+2 GIVN Charles
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 5 APR 1960
+2 PLAC Seattle, Washington, United States
+1 FAMC @F34@
+0 @I142@ INDI
+1 NAME Robert /Varnquist/
+2 GIVN Robert
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE ABT 1961
+2 PLAC Seattle, Washington, United States
+1 OCCU Blacksmith
+1 FAMC @F34@
+0 @I143@ INDI
+1 NAME Laura /Varnquist/
+2 GIVN Laura
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 25 JUN 1964
+2 PLAC Seattle, Washington, United States
+1 FAMC @F34@
+1 FAMS @F82@
+0 @I144@ INDI
+1 NAME Martin /Holtzbrand/
+2 GIVN Martin
+2 SURN Holtzbrand
+1 SEX M
+1 BIRT
+2 DATE ABT 1972
+2 PLAC Omaha, Nebraska, United States
+1 FAMS @F35@
+0 @I145@ INDI
+1 NAME Ruth /Holtzbrand/
+2 GIVN Ruth
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE 25 NOV 2003
+2 PLAC Omaha, Nebraska, United States
+1 OCCU Clerk
+1 FAMC @F35@
+0 @I146@ INDI
+1 NAME Robert /Holtzbrand/
+2 GIVN Robert
+2 SURN Holtzbrand
+1 SEX M
+1 BIRT
+2 DATE 18 SEP 2004
+2 PLAC Omaha, Nebraska, United States
+1 FAMC @F35@
+0 @I147@ INDI
+1 NAME Grace /Holtzbrand/
+2 GIVN Grace
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE 3 JAN 2006
+2 PLAC Omaha, Nebraska, United States
+1 FAMC @F35@
+0 @I148@ INDI
+1 NAME John /Ellisandt/
+2 GIVN John
+2 SURN Ellisandt
+1 SEX M
+1 BIRT
+2 DATE ABT 1937
+2 PLAC Portland, Oregon, United States
+1 OCCU Farmer
+1 FAMS @F36@
+0 @I149@ INDI
+1 NAME Ruth /Ellisandt/
+2 GIVN Ruth
+2 SURN Ellisandt
+1 SEX F
+1 BIRT
+2 DATE 5 NOV 1965
+2 PLAC New York, New York, United States
+1 FAMC @F36@
+0 @I150@ INDI
+1 NAME Henry /Ellisandt/
+2 GIVN Henry
+2 SURN Ellisandt
+1 SEX M
+1 BIRT
+2 DATE ABT 1966
+2 PLAC Denver, Colorado, United States
+1 FAMC @F36@
+0 @I151@ INDI
+1 NAME George /Ellisandt/
+2 GIVN George
+2 SURN Ellisandt
+1 SEX M
+1 BIRT
+2 DATE 1968
+2 PLAC Seattle, Washington, United States
+1 FAMC @F36@
+0 @I152@ INDI
+1 NAME John /Thornquay/
+2 GIVN John
+2 SURN Thornquay
+1 SEX M
+1 BIRT
+2 DATE 14 JUN 1819
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 9 DEC 1820
+2 PLAC Dublin, Ireland
+1 OCCU Tailor
+1 FAMS @F37@
+0 @I153@ INDI
+1 NAME Margaret /Thornquay/
+2 GIVN Margaret
+2 SURN Thornquay
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 1850
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 8 MAY 1936
+2 PLAC Omaha, Nebraska, United States
+1 FAMC @F37@
+0 @I154@ INDI
+1 NAME Laura /Thornquay/
+2 GIVN Laura
+2 SURN Thornquay
+1 SEX F
+1 BIRT
+2 DATE 22 JUL 1851
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 21 MAR 1886
+2 PLAC Omaha, Nebraska, United States
+1 FAMC @F37@
+0 @I155@ INDI
+1 NAME Mary /Velkamp/
+2 GIVN Mary
+2 SURN Velkamp
+1 SEX F
+1 BIRT
+2 DATE 17 AUG 1757
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 15 JUN 1792
+2 PLAC Copenhagen, Denmark
+1 OCCU Carpenter
+1 FAMS @F38@
+0 @I156@ INDI
+1 NAME Rose /Ashgrove-Lunt/
+2 GIVN Rose
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE ABT 1783
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 7 APR 1873
+2 PLAC Copenhagen, Denmark
+1 FAMC @F38@
+0 @I157@ INDI
+1 NAME Clara /Ashgrove-Lunt/
+2 GIVN Clara
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE 11 SEP 1785
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 8 JUN 1846
+2 PLAC Copenhagen, Denmark
+1 OCCU Farmer
+1 FAMC @F38@
+0 @I158@ INDI
+1 NAME David /Ashgrove-Lunt/
+2 GIVN David
+2 SURN Ashgrove-Lunt
+1 SEX M
+1 BIRT
+2 DATE 19 APR 1787
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 1868
+2 PLAC Chicago, Illinois, United States
+1 FAMC @F38@
+1 FAMS @F41@
+0 @I159@ INDI
+1 NAME Martin /Quillane/
+2 GIVN Martin
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 14 DEC 1774
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 13 MAY 1782
+2 PLAC Rotterdam, Netherlands
+1 OCCU Miller
+1 FAMS @F39@
+0 @I160@ INDI
+1 NAME Julia /Quillane/
+2 GIVN Julia
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 2 AUG 1800
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 12 MAR 1808
+2 PLAC Rotterdam, Netherlands
+1 FAMC @F39@
+1 FAMS @F50@
+0 @I161@ INDI
+1 NAME Frederick /Quillane/
+2 GIVN Frederick
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 17 NOV 1802
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 1810
+2 PLAC Liverpool, England, United Kingdom
+1 OCCU Tailor
+1 FAMC @F39@
+1 FAMS @F72@
+0 @I162@ INDI
+1 NAME Catherine /Quillane/
+2 GIVN Catherine
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 8 JUL 1803
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 15 JUL 1804
+2 PLAC Lyon, France
+1 FAMC @F39@
+1 FAMS @F99@
+0 @I163@ INDI
+1 NAME Helen /Quillane/
+2 GIVN Helen
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 1806
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE ABT 1887
+2 PLAC New York, New York, United States
+1 FAMC @F39@
+1 FAMS @F85@
+0 @I164@ INDI
+1 NAME Martha /Quillane/
+2 GIVN Martha
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 23 AUG 1808
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE ABT 1880
+2 PLAC Rotterdam, Netherlands
+1 FAMC @F39@
+1 FAMS @F59@
+0 @I165@ INDI
+1 NAME Grace /Ollendrake/
+2 GIVN Grace
+2 SURN Ollendrake
+1 SEX F
+1 BIRT
+2 DATE 27 SEP 1711
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 1779
+2 PLAC Bordeaux, France
+1 FAMS @F40@
+0 @I166@ INDI
+1 NAME Mary /Varnquist/
+2 GIVN Mary
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 4 APR 1741
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 17 NOV 1776
+2 PLAC Liverpool, England, United Kingdom
+1 OCCU Blacksmith
+1 FAMC @F40@
+1 FAMS @F46@
+0 @I167@ INDI
+1 NAME Robert /Varnquist/
+2 GIVN Robert
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 27 DEC 1744
+2 PLAC Amsterdam, Netherlands
+1 DEAT
+2 DATE 28 AUG 1834
+2 PLAC Amsterdam, Netherlands
+1 FAMC @F40@
+0 @I168@ INDI
+1 NAME Ruth /Lindqvane/
+2 GIVN Ruth
+2 SURN Lindqvane
+1 SEX F
+1 BIRT
+2 DATE 25 JAN 1788
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 5 APR 1874
+2 PLAC Copenhagen, Denmark
+1 FAMS @F41@
+0 @I169@ INDI
+1 NAME Edward /Ashgrove-Lunt/
+2 GIVN Edward
+2 SURN Ashgrove-Lunt
+1 SEX M
+1 BIRT
+2 DATE 2 NOV 1820
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 5 NOV 1906
+2 PLAC Portland, Oregon, United States
+1 FAMC @F41@
+1 FAMS @F63@
+0 @I170@ INDI
+1 NAME Alice /Ashgrove-Lunt/
+2 GIVN Alice
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE 21 JUL 1822
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 4 FEB 1857
+2 PLAC Copenhagen, Denmark
+1 OCCU Sailor
+1 FAMC @F41@
+0 @I171@ INDI
+1 NAME Alice /Brennholt/
+2 GIVN Alice
+2 SURN Brennholt
+1 SEX F
+1 BIRT
+2 DATE 17 OCT 1967
+2 PLAC Chicago, Illinois, United States
+1 OCCU Carpenter
+1 FAMS @F42@
+0 @I172@ INDI
+1 NAME Ida /Thornquay/
+2 GIVN Ida
+2 SURN Thornquay
+1 SEX F
+1 BIRT
+2 DATE 9 APR 1996
+2 PLAC Chicago, Illinois, United States
+1 OCCU Carpenter
+1 FAMC @F42@
+0 @I173@ INDI
+1 NAME Elizabeth /Thornquay/
+2 GIVN Elizabeth
+2 SURN Thornquay
+1 SEX F
+1 BIRT
+2 DATE ABT 1999
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F42@
+0 @I174@ INDI
+1 NAME Joseph /Pembrask/
+2 GIVN Joseph
+2 SURN Pembrask
+1 SEX M
+1 BIRT
+2 DATE 15 MAY 1755
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 1816
+2 PLAC Amsterdam, Netherlands
+1 FAMS @F43@
+0 @I175@ INDI
+1 NAME Peter /Pembrask/
+2 GIVN Peter
+2 SURN Pembrask
+1 SEX M
+1 BIRT
+2 DATE ABT 1780
+2 PLAC Dublin, Ireland
+1 DEAT
+2 DATE 8 JAN 1848
+2 PLAC Dublin, Ireland
+1 OCCU Clerk
+1 FAMC @F43@
+1 FAMS @F102@
+0 @I176@ INDI
+1 NAME Laura /Holtzbrand/
+2 GIVN Laura
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE 1772
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 1 APR 1853
+2 PLAC Lyon, France
+1 FAMS @F44@
+0 @I177@ INDI
+1 NAME Martin /Quillane/
+2 GIVN Martin
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 22 NOV 1804
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 9 APR 1894
+2 PLAC Chicago, Illinois, United States
+1 FAMC @F44@
+1 FAMS @F49@
+0 @I178@ INDI
+1 NAME Albert /Quillane/
+2 GIVN Albert
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 12 APR 1806
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 23 JUN 1807
+2 PLAC Lyon, France
+1 FAMC @F44@
+1 FAMS @F56@
+0 @I179@ INDI
+1 NAME George /Quillane/
+2 GIVN George
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 12 NOV 1807
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 1 MAY 1893
+2 PLAC Lyon, France
+1 FAMC @F44@
+0 @I180@ INDI
+1 NAME Charles /Quillane/
+2 GIVN Charles
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 17 FEB 1810
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 7 MAY 1818
+2 PLAC Bordeaux, France
+1 FAMC @F44@
+0 @I181@ INDI
+1 NAME Martha /Quillane/
+2 GIVN Martha
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE ABT 1811
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 9 MAY 1812
+2 PLAC Liverpool, England, United Kingdom
+1 OCCU Printer
+1 FAMC @F44@
+0 @I182@ INDI
+1 NAME Albert /Quillane/
+2 GIVN Albert
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 20 AUG 1812
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 8 AUG 1864
+2 PLAC Toronto, Ontario, Canada
+1 FAMC @F44@
+1 FAMS @F89@
+0 @I183@ INDI
+1 NAME Felix /Orbeline/
+2 GIVN Felix
+2 SURN Orbeline
+1 SEX M
+1 BIRT
+2 DATE 22 JAN 1851
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE ABT 1941
+2 PLAC Omaha, Nebraska, United States
+1 FAMS @F45@
+0 @I184@ INDI
+1 NAME Martin /Orbeline/
+2 GIVN Martin
+2 SURN Orbeline
+1 SEX M
+1 BIRT
+2 DATE 7 JAN 1880
+2 PLAC Toronto, Ontario, Canada
+1 DEAT
+2 DATE ABT 1966
+2 PLAC Toronto, Ontario, Canada
+1 OCCU Tailor
+1 FAMC @F45@
+0 @I185@ INDI
+1 NAME Samuel /Orbeline/
+2 GIVN Samuel
+2 SURN Orbeline
+1 SEX M
+1 BIRT
+2 DATE 2 MAR 1883
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 23 JUN 1891
+2 PLAC Omaha, Nebraska, United States
+1 FAMC @F45@
+0 @I186@ INDI
+1 NAME Felix /Orbeline/
+2 GIVN Felix
+2 SURN Orbeline
+1 SEX M
+1 BIRT
+2 DATE 3 MAR 1886
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 6 NOV 1894
+2 PLAC Winnipeg, Manitoba, Canada
+1 OCCU Printer
+1 FAMC @F45@
+0 @I187@ INDI
+1 NAME Ida /Orbeline/
+2 GIVN Ida
+2 SURN Orbeline
+1 SEX F
+1 BIRT
+2 DATE 1889
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 22 DEC 1941
+2 PLAC Omaha, Nebraska, United States
+1 OCCU Nurse
+1 FAMC @F45@
+0 @I188@ INDI
+1 NAME Frederick /Saltmere/
+2 GIVN Frederick
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 12 JUN 1743
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 4 JAN 1820
+2 PLAC Hamburg, Germany
+1 OCCU Farmer
+1 FAMS @F46@
+0 @I189@ INDI
+1 NAME Lena /Saltmere/
+2 GIVN Lena
+2 SURN Saltmere
+1 SEX F
+1 BIRT
+2 DATE 3 JUN 1768
+2 PLAC Gothenburg, Sweden
+1 DEAT
+2 DATE 4 SEP 1776
+2 PLAC Liverpool, England, United Kingdom
+1 FAMC @F46@
+1 FAMS @F51@
+0 @I190@ INDI
+1 NAME Nora /Saltmere/
+2 GIVN Nora
+2 SURN Saltmere
+1 SEX F
+1 BIRT
+2 DATE ABT 1771
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 27 MAY 1848
+2 PLAC Rotterdam, Netherlands
+1 FAMC @F46@
+0 @I191@ INDI
+1 NAME Clara /Saltmere/
+2 GIVN Clara
+2 SURN Saltmere
+1 SEX F
+1 BIRT
+2 DATE ABT 1773
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 16 APR 1834
+2 PLAC Liverpool, England, United Kingdom
+1 FAMC @F46@
+0 @I192@ INDI
+1 NAME Walter /Saltmere/
+2 GIVN Walter
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 15 APR 1776
+2 PLAC Amsterdam, Netherlands
+1 DEAT
+2 DATE 24 AUG 1784
+2 PLAC Copenhagen, Denmark
+1 FAMC @F46@
+1 FAMS @F55@
+0 @I193@ INDI
+1 NAME Elizabeth /Ellisandt/
+2 GIVN Elizabeth
+2 SURN Ellisandt
+1 SEX F
+1 BIRT
+2 DATE 14 APR 1904
+2 PLAC St. Louis, Missouri, United States
+1 DEAT
+2 DATE 1956
+2 PLAC St. Louis, Missouri, United States
+1 OCCU Clerk
+1 FAMS @F47@
+0 @I194@ INDI
+1 NAME Julia /Varnquist/
+2 GIVN Julia
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 2 AUG 1929
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 2 MAY 1964
+2 PLAC Winnipeg, Manitoba, Canada
+1 OCCU Teacher
+1 FAMC @F47@
+0 @I195@ INDI
+1 NAME Edward /Varnquist/
+2 GIVN Edward
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 3 OCT 1930
+2 PLAC St. Louis, Missouri, United States
+1 DEAT
+2 DATE 9 JUN 1938
+2 PLAC St. Louis, Missouri, United States
+1 OCCU Clerk
+1 FAMC @F47@
+0 @I196@ INDI
+1 NAME Martin /Kestrander/
+2 GIVN Martin
+2 SURN Kestrander
+1 SEX M
+1 BIRT
+2 DATE 1747
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 23 DEC 1755
+2 PLAC Bordeaux, France
+1 OCCU Engineer
+1 FAMS @F48@
+0 @I197@ INDI
+1 NAME Joseph /Kestrander/
+2 GIVN Joseph
+2 SURN Kestrander
+1 SEX M
+1 BIRT
+2 DATE 9 MAY 1778
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 25 OCT 1855
+2 PLAC Bergen, Norway
+1 FAMC @F48@
+0 @I198@ INDI
+1 NAME Ida /Kestrander/
+2 GIVN Ida
+2 SURN Kestrander
+1 SEX F
+1 BIRT
+2 DATE 1780
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE ABT 1848
+2 PLAC Bremen, Germany
+1 FAMC @F48@
+0 @I199@ INDI
+1 NAME Clara /Kestrander/
+2 GIVN Clara
+2 SURN Kestrander
+1 SEX F
+1 BIRT
+2 DATE 16 DEC 1783
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 1860
+2 PLAC Bordeaux, France
+1 FAMC @F48@
+1 FAMS @F54@
+0 @I200@ INDI
+1 NAME Anna /Kestrander/
+2 GIVN Anna
+2 SURN Kestrander
+1 SEX F
+1 BIRT
+2 DATE 9 JUL 1786
+2 PLAC Lyon, France
+1 DEAT
+2 DATE ABT 1794
+2 PLAC Dublin, Ireland
+1 OCCU Engineer
+1 FAMC @F48@
+1 FAMS @F100@
+0 @I201@ INDI
+1 NAME David /Kestrander/
+2 GIVN David
+2 SURN Kestrander
+1 SEX M
+1 BIRT
+2 DATE 1 DEC 1789
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 23 MAR 1861
+2 PLAC Bordeaux, France
+1 OCCU Blacksmith
+1 FAMC @F48@
+0 @I202@ INDI
+1 NAME Helen /Castellune/
+2 GIVN Helen
+2 SURN Castellune
+1 SEX F
+1 BIRT
+2 DATE 11 JUN 1803
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 26 OCT 1804
+2 PLAC Bergen, Norway
+1 OCCU Teacher
+1 FAMS @F49@
+0 @I203@ INDI
+1 NAME Hugo /Quillane/
+2 GIVN Hugo
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 7 JUL 1831
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE ABT 1899
+2 PLAC Hamburg, Germany
+1 OCCU Farmer
+1 FAMC @F49@
+0 @I204@ INDI
+1 NAME Helen /Quillane/
+2 GIVN Helen
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 2 AUG 1834
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 11 MAR 1895
+2 PLAC Hamburg, Germany
+1 OCCU Nurse
+1 FAMC @F49@
+1 FAMS @F64@
+0 @I205@ INDI
+1 NAME Nora /Quillane/
+2 GIVN Nora
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 1836
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE ABT 1897
+2 PLAC Minneapolis, Minnesota, United States
+1 FAMC @F49@
+0 @I206@ INDI
+1 NAME Simon /Velkamp/
+2 GIVN Simon
+2 SURN Velkamp
+1 SEX M
+1 BIRT
+2 DATE 4 JUL 1797
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 23 AUG 1798
+2 PLAC Oslo, Norway
+1 OCCU Tailor
+1 FAMS @F50@
+0 @I207@ INDI
+1 NAME William /Velkamp/
+2 GIVN William
+2 SURN Velkamp
+1 SEX M
+1 BIRT
+2 DATE 5 JUL 1829
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 22 APR 1915
+2 PLAC Rotterdam, Netherlands
+1 FAMC @F50@
+1 FAMS @F66@
+0 @I208@ INDI
+1 NAME Simon /Velkamp/
+2 GIVN Simon
+2 SURN Velkamp
+1 SEX M
+1 BIRT
+2 DATE 28 NOV 1831
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 1903
+2 PLAC Portland, Oregon, United States
+1 FAMC @F50@
+0 @I209@ INDI
+1 NAME Nora /Velkamp/
+2 GIVN Nora
+2 SURN Velkamp
+1 SEX F
+1 BIRT
+2 DATE 9 OCT 1832
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 9 DEC 1884
+2 PLAC Toronto, Ontario, Canada
+1 FAMC @F50@
+0 @I210@ INDI
+1 NAME Sarah /Velkamp/
+2 GIVN Sarah
+2 SURN Velkamp
+1 SEX F
+1 BIRT
+2 DATE 15 APR 1835
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 8 MAR 1836
+2 PLAC Gothenburg, Sweden
+1 OCCU Sailor
+1 FAMC @F50@
+1 FAMS @F58@
+0 @I211@ INDI
+1 NAME Grace /Velkamp/
+2 GIVN Grace
+2 SURN Velkamp
+1 SEX F
+1 BIRT
+2 DATE 19 APR 1837
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 13 MAY 1927
+2 PLAC Rotterdam, Netherlands
+1 OCCU Blacksmith
+1 FAMC @F50@
+0 @I212@ INDI
+1 NAME Henry /Velkamp/
+2 GIVN Henry
+2 SURN Velkamp
+1 SEX M
+1 BIRT
+2 DATE 1839
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 26 FEB 1916
+2 PLAC Rotterdam, Netherlands
+1 OCCU Clerk
+1 FAMC @F50@
+0 @I213@ INDI
+1 NAME Joseph /Calderhoff/
+2 GIVN Joseph
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 2 FEB 1770
+2 PLAC Gothenburg, Sweden
+1 DEAT
+2 DATE 27 APR 1831
+2 PLAC Hamburg, Germany
+1 FAMS @F51@
+0 @I214@ INDI
+1 NAME Catherine /Calderhoff/
+2 GIVN Catherine
+2 SURN Calderhoff
+1 SEX F
+1 BIRT
+2 DATE 1800
+2 PLAC Gothenburg, Sweden
+1 DEAT
+2 DATE 10 APR 1881
+2 PLAC Minneapolis, Minnesota, United States
+1 OCCU Merchant
+1 FAMC @F51@
+1 FAMS @F94@
+0 @I215@ INDI
+1 NAME Henry /Calderhoff/
+2 GIVN Henry
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 7 OCT 1801
+2 PLAC Gothenburg, Sweden
+1 DEAT
+2 DATE 1873
+2 PLAC St. Louis, Missouri, United States
+1 OCCU Sailor
+1 FAMC @F51@
+0 @I216@ INDI
+1 NAME Charles /Calderhoff/
+2 GIVN Charles
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE ABT 1804
+2 PLAC Gothenburg, Sweden
+1 DEAT
+2 DATE ABT 1894
+2 PLAC Seattle, Washington, United States
+1 OCCU Teacher
+1 FAMC @F51@
+0 @I217@ INDI
+1 NAME Martin /Saltmere/
+2 GIVN Martin
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 25 NOV 1731
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE ABT 1817
+2 PLAC Copenhagen, Denmark
+1 OCCU Teacher
+1 FAMS @F52@
+0 @I218@ INDI
+1 NAME Catherine /Saltmere/
+2 GIVN Catherine
+2 SURN Saltmere
+1 SEX F
+1 BIRT
+2 DATE 20 JUN 1764
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 12 JUN 1816
+2 PLAC Rotterdam, Netherlands
+1 OCCU Sailor
+1 FAMC @F52@
+0 @I219@ INDI
+1 NAME Julia /Saltmere/
+2 GIVN Julia
+2 SURN Saltmere
+1 SEX F
+1 BIRT
+2 DATE 7 MAY 1766
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 24 NOV 1847
+2 PLAC Rotterdam, Netherlands
+1 FAMC @F52@
+0 @I220@ INDI
+1 NAME John /Holtzbrand/
+2 GIVN John
+2 SURN Holtzbrand
+1 SEX M
+1 BIRT
+2 DATE 1843
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE ABT 1920
+2 PLAC Chicago, Illinois, United States
+1 FAMS @F53@
+0 @I221@ INDI
+1 NAME Lena /Holtzbrand/
+2 GIVN Lena
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE 20 MAY 1870
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE 2 AUG 1956
+2 PLAC Seattle, Washington, United States
+1 OCCU Tailor
+1 FAMC @F53@
+0 @I222@ INDI
+1 NAME Peter /Holtzbrand/
+2 GIVN Peter
+2 SURN Holtzbrand
+1 SEX M
+1 BIRT
+2 DATE 3 JUL 1873
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 13 NOV 1934
+2 PLAC Omaha, Nebraska, United States
+1 OCCU Baker
+1 FAMC @F53@
+0 @I223@ INDI
+1 NAME Simon /Holtzbrand/
+2 GIVN Simon
+2 SURN Holtzbrand
+1 SEX M
+1 BIRT
+2 DATE 21 SEP 1876
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE 6 JUL 1948
+2 PLAC Seattle, Washington, United States
+1 FAMC @F53@
+0 @I224@ INDI
+1 NAME Helen /Holtzbrand/
+2 GIVN Helen
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE 14 MAY 1877
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE 14 JAN 1938
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F53@
+0 @I225@ INDI
+1 NAME Martha /Holtzbrand/
+2 GIVN Martha
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE 19 JUN 1879
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE 1 JUN 1951
+2 PLAC Seattle, Washington, United States
+1 OCCU Engineer
+1 FAMC @F53@
+1 FAMS @F77@
+0 @I226@ INDI
+1 NAME Sarah /Holtzbrand/
+2 GIVN Sarah
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE 13 DEC 1880
+2 PLAC Minneapolis, Minnesota, United States
+1 DEAT
+2 DATE 1 JUL 1888
+2 PLAC Minneapolis, Minnesota, United States
+1 FAMC @F53@
+0 @I227@ INDI
+1 NAME Joseph /Varnquist/
+2 GIVN Joseph
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE ABT 1782
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE ABT 1872
+2 PLAC Bordeaux, France
+1 FAMS @F54@
+0 @I228@ INDI
+1 NAME Samuel /Varnquist/
+2 GIVN Samuel
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE ABT 1806
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 1 JAN 1841
+2 PLAC Bordeaux, France
+1 FAMC @F54@
+0 @I229@ INDI
+1 NAME Margaret /Varnquist/
+2 GIVN Margaret
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 21 JUL 1807
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 20 JUN 1868
+2 PLAC Bordeaux, France
+1 OCCU Tailor
+1 FAMC @F54@
+0 @I230@ INDI
+1 NAME Eva /Varnquist/
+2 GIVN Eva
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 6 MAR 1809
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 6 SEP 1877
+2 PLAC Bordeaux, France
+1 OCCU Farmer
+1 FAMC @F54@
+0 @I231@ INDI
+1 NAME Martha /Druvelle/
+2 GIVN Martha
+2 SURN Druvelle
+1 SEX F
+1 BIRT
+2 DATE 3 FEB 1776
+2 PLAC Amsterdam, Netherlands
+1 DEAT
+2 DATE 25 APR 1784
+2 PLAC Amsterdam, Netherlands
+1 OCCU Nurse
+1 FAMS @F55@
+0 @I232@ INDI
+1 NAME Martin /Saltmere/
+2 GIVN Martin
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 27 JAN 1801
+2 PLAC Bergen, Norway
+1 DEAT
+2 DATE ABT 1809
+2 PLAC Dublin, Ireland
+1 OCCU Teacher
+1 FAMC @F55@
+1 FAMS @F91@
+0 @I233@ INDI
+1 NAME Arthur /Saltmere/
+2 GIVN Arthur
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 21 JUL 1803
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 23 OCT 1838
+2 PLAC Copenhagen, Denmark
+1 FAMC @F55@
+0 @I234@ INDI
+1 NAME John /Saltmere/
+2 GIVN John
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 6 NOV 1806
+2 PLAC Amsterdam, Netherlands
+1 DEAT
+2 DATE ABT 1858
+2 PLAC Amsterdam, Netherlands
+1 OCCU Carpenter
+1 FAMC @F55@
+0 @I235@ INDI
+1 NAME Julia /Ollendrake/
+2 GIVN Julia
+2 SURN Ollendrake
+1 SEX F
+1 BIRT
+2 DATE 28 APR 1807
+2 PLAC Lyon, France
+1 DEAT
+2 DATE ABT 1884
+2 PLAC Lyon, France
+1 OCCU Farmer
+1 FAMS @F56@
+0 @I236@ INDI
+1 NAME Catherine /Quillane/
+2 GIVN Catherine
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 13 SEP 1833
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 12 FEB 1841
+2 PLAC Lyon, France
+1 FAMC @F56@
+0 @I237@ INDI
+1 NAME Louisa /Quillane/
+2 GIVN Louisa
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 24 APR 1836
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 18 NOV 1897
+2 PLAC Lyon, France
+1 OCCU Baker
+1 FAMC @F56@
+0 @I238@ INDI
+1 NAME Eva /Brennholt/
+2 GIVN Eva
+2 SURN Brennholt
+1 SEX F
+1 BIRT
+2 DATE 27 JUN 1698
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 20 AUG 1788
+2 PLAC Gothenburg, Sweden
+1 OCCU Carpenter
+1 FAMS @F57@
+0 @I239@ INDI
+1 NAME Helen /Pembrask/
+2 GIVN Helen
+2 SURN Pembrask
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 1730
+2 PLAC Oslo, Norway
+1 DEAT
+2 DATE 10 OCT 1731
+2 PLAC Rotterdam, Netherlands
+1 FAMC @F57@
+1 FAMS @F70@
+0 @I240@ INDI
+1 NAME Peter /Pembrask/
+2 GIVN Peter
+2 SURN Pembrask
+1 SEX M
+1 BIRT
+2 DATE 13 NOV 1733
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 17 AUG 1801
+2 PLAC Copenhagen, Denmark
+1 OCCU Carpenter
+1 FAMC @F57@
+0 @I241@ INDI
+1 NAME Samuel /Saltmere/
+2 GIVN Samuel
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 1 OCT 1833
+2 PLAC Chicago, Illinois, United States
+1 DEAT
+2 DATE ABT 1901
+2 PLAC Toronto, Ontario, Canada
+1 FAMS @F58@
+0 @I242@ INDI
+1 NAME Margaret /Saltmere/
+2 GIVN Margaret
+2 SURN Saltmere
+1 SEX F
+1 BIRT
+2 DATE 20 AUG 1864
+2 PLAC Chicago, Illinois, United States
+1 DEAT
+2 DATE 1925
+2 PLAC Chicago, Illinois, United States
+1 FAMC @F58@
+0 @I243@ INDI
+1 NAME William /Saltmere/
+2 GIVN William
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 3 MAR 1866
+2 PLAC Chicago, Illinois, United States
+1 DEAT
+2 DATE 12 FEB 1874
+2 PLAC Portland, Oregon, United States
+1 OCCU Clerk
+1 FAMC @F58@
+0 @I244@ INDI
+1 NAME Albert /Saltmere/
+2 GIVN Albert
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 1868
+2 PLAC Minneapolis, Minnesota, United States
+1 DEAT
+2 DATE 2 NOV 1903
+2 PLAC Minneapolis, Minnesota, United States
+1 OCCU Baker
+1 FAMC @F58@
+0 @I245@ INDI
+1 NAME Catherine /Saltmere/
+2 GIVN Catherine
+2 SURN Saltmere
+1 SEX F
+1 BIRT
+2 DATE 24 JUN 1870
+2 PLAC Chicago, Illinois, United States
+1 DEAT
+2 DATE 1931
+2 PLAC Chicago, Illinois, United States
+1 OCCU Blacksmith
+1 FAMC @F58@
+0 @I246@ INDI
+1 NAME David /Calderhoff/
+2 GIVN David
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 17 JUL 1805
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 26 MAR 1886
+2 PLAC New York, New York, United States
+1 OCCU Teacher
+1 FAMS @F59@
+0 @I247@ INDI
+1 NAME Daniel /Calderhoff/
+2 GIVN Daniel
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 3 OCT 1840
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 27 FEB 1912
+2 PLAC Hamburg, Germany
+1 FAMC @F59@
+0 @I248@ INDI
+1 NAME Daniel /Calderhoff/
+2 GIVN Daniel
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 16 MAY 1842
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 1894
+2 PLAC Hamburg, Germany
+1 OCCU Tailor
+1 FAMC @F59@
+0 @I249@ INDI
+1 NAME Martin /Calderhoff/
+2 GIVN Martin
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 26 DEC 1843
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE ABT 1915
+2 PLAC Bordeaux, France
+1 FAMC @F59@
+1 FAMS @F95@
+0 @I250@ INDI
+1 NAME Frederick /Lindqvane/
+2 GIVN Frederick
+2 SURN Lindqvane
+1 SEX M
+1 BIRT
+2 DATE 25 MAY 1774
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 20 MAY 1860
+2 PLAC Amsterdam, Netherlands
+1 FAMS @F60@
+0 @I251@ INDI
+1 NAME Ida /Lindqvane/
+2 GIVN Ida
+2 SURN Lindqvane
+1 SEX F
+1 BIRT
+2 DATE ABT 1808
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 16 APR 1843
+2 PLAC Hamburg, Germany
+1 OCCU Merchant
+1 FAMC @F60@
+0 @I252@ INDI
+1 NAME Martin /Lindqvane/
+2 GIVN Martin
+2 SURN Lindqvane
+1 SEX M
+1 BIRT
+2 DATE 20 SEP 1810
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 12 JAN 1900
+2 PLAC Toronto, Ontario, Canada
+1 OCCU Farmer
+1 FAMC @F60@
+0 @I253@ INDI
+1 NAME William /Lindqvane/
+2 GIVN William
+2 SURN Lindqvane
+1 SEX M
+1 BIRT
+2 DATE 13 MAR 1812
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 9 NOV 1820
+2 PLAC Rotterdam, Netherlands
+1 FAMC @F60@
+0 @I254@ INDI
+1 NAME Grace /Ashgrove-Lunt/
+2 GIVN Grace
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE 13 MAR 1762
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE ABT 1763
+2 PLAC Rotterdam, Netherlands
+1 FAMS @F61@
+0 @I255@ INDI
+1 NAME Alice /Holtzbrand/
+2 GIVN Alice
+2 SURN Holtzbrand
+1 SEX F
+1 BIRT
+2 DATE ABT 1793
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 1874
+2 PLAC Rotterdam, Netherlands
+1 OCCU Carpenter
+1 FAMC @F61@
+0 @I256@ INDI
+1 NAME Simon /Ashgrove-Lunt/
+2 GIVN Simon
+2 SURN Ashgrove-Lunt
+1 SEX M
+1 BIRT
+2 DATE 17 OCT 1854
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE 4 MAY 1862
+2 PLAC Chicago, Illinois, United States
+1 FAMS @F62@
+0 @I257@ INDI
+1 NAME Thomas /Ashgrove-Lunt/
+2 GIVN Thomas
+2 SURN Ashgrove-Lunt
+1 SEX M
+1 BIRT
+2 DATE 1886
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE 26 JUN 1921
+2 PLAC Portland, Oregon, United States
+1 OCCU Miller
+1 FAMC @F62@
+1 FAMS @F71@
+0 @I258@ INDI
+1 NAME Daniel /Ashgrove-Lunt/
+2 GIVN Daniel
+2 SURN Ashgrove-Lunt
+1 SEX M
+1 BIRT
+2 DATE 12 OCT 1888
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE 11 FEB 1965
+2 PLAC Seattle, Washington, United States
+1 OCCU Tailor
+1 FAMC @F62@
+0 @I259@ INDI
+1 NAME Helen /Teshmore/
+2 GIVN Helen
+2 SURN Teshmore
+1 SEX F
+1 BIRT
+2 DATE 6 OCT 1816
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 2 MAY 1868
+2 PLAC Copenhagen, Denmark
+1 OCCU Merchant
+1 FAMS @F63@
+0 @I260@ INDI
+1 NAME Ruth /Ashgrove-Lunt/
+2 GIVN Ruth
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE ABT 1849
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 28 OCT 1850
+2 PLAC Oslo, Norway
+1 OCCU Sailor
+1 FAMC @F63@
+0 @I261@ INDI
+1 NAME Ruth /Ashgrove-Lunt/
+2 GIVN Ruth
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE 1851
+2 PLAC Toronto, Ontario, Canada
+1 DEAT
+2 DATE 24 JAN 1903
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F63@
+0 @I262@ INDI
+1 NAME Frederick /Ashgrove-Lunt/
+2 GIVN Frederick
+2 SURN Ashgrove-Lunt
+1 SEX M
+1 BIRT
+2 DATE 10 OCT 1853
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 14 SEP 1861
+2 PLAC Boston, Massachusetts, United States
+1 OCCU Engineer
+1 FAMC @F63@
+0 @I263@ INDI
+1 NAME Frances /Ashgrove-Lunt/
+2 GIVN Frances
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE 2 MAR 1854
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE 20 NOV 1906
+2 PLAC Portland, Oregon, United States
+1 FAMC @F63@
+0 @I264@ INDI
+1 NAME Joseph /Fennaway/
+2 GIVN Joseph
+2 SURN Fennaway
+1 SEX M
+1 BIRT
+2 DATE 2 JAN 1832
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 10 FEB 1909
+2 PLAC Winnipeg, Manitoba, Canada
+1 OCCU Printer
+1 FAMS @F64@
+0 @I265@ INDI
+1 NAME Joseph /Fennaway/
+2 GIVN Joseph
+2 SURN Fennaway
+1 SEX M
+1 BIRT
+2 DATE 18 APR 1867
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 10 OCT 1875
+2 PLAC Winnipeg, Manitoba, Canada
+1 OCCU Engineer
+1 FAMC @F64@
+0 @I266@ INDI
+1 NAME David /Fennaway/
+2 GIVN David
+2 SURN Fennaway
+1 SEX M
+1 BIRT
+2 DATE 12 OCT 1870
+2 PLAC St. Louis, Missouri, United States
+1 DEAT
+2 DATE ABT 1947
+2 PLAC Seattle, Washington, United States
+1 FAMC @F64@
+1 FAMS @F83@
+0 @I267@ INDI
+1 NAME George /Orbeline/
+2 GIVN George
+2 SURN Orbeline
+1 SEX M
+1 BIRT
+2 DATE 26 APR 1927
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 15 FEB 2008
+2 PLAC Portland, Oregon, United States
+1 OCCU Baker
+1 FAMS @F65@
+0 @I268@ INDI
+1 NAME Peter /Orbeline/
+2 GIVN Peter
+2 SURN Orbeline
+1 SEX M
+1 BIRT
+2 DATE 5 NOV 1955
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F65@
+0 @I269@ INDI
+1 NAME Ruth /Orbeline/
+2 GIVN Ruth
+2 SURN Orbeline
+1 SEX F
+1 BIRT
+2 DATE ABT 1956
+2 PLAC Winnipeg, Manitoba, Canada
+1 OCCU Sailor
+1 FAMC @F65@
+0 @I270@ INDI
+1 NAME Anna /Orbeline/
+2 GIVN Anna
+2 SURN Orbeline
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1957
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F65@
+0 @I271@ INDI
+1 NAME Anna /Teshmore/
+2 GIVN Anna
+2 SURN Teshmore
+1 SEX F
+1 BIRT
+2 DATE 18 JUN 1826
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE 19 AUG 1834
+2 PLAC Portland, Oregon, United States
+1 FAMS @F66@
+0 @I272@ INDI
+1 NAME Mary /Velkamp/
+2 GIVN Mary
+2 SURN Velkamp
+1 SEX F
+1 BIRT
+2 DATE 17 DEC 1859
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE 6 JAN 1860
+2 PLAC Portland, Oregon, United States
+1 FAMC @F66@
+0 @I273@ INDI
+1 NAME George /Velkamp/
+2 GIVN George
+2 SURN Velkamp
+1 SEX M
+1 BIRT
+2 DATE 18 JAN 1860
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE 8 MAR 1946
+2 PLAC Portland, Oregon, United States
+1 OCCU Baker
+1 FAMC @F66@
+0 @I274@ INDI
+1 NAME Hugo /Corvantis/
+2 GIVN Hugo
+2 SURN Corvantis
+1 SEX M
+1 BIRT
+2 DATE 25 FEB 1750
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 18 NOV 1802
+2 PLAC Copenhagen, Denmark
+1 FAMS @F67@
+0 @I275@ INDI
+1 NAME Helen /Corvantis/
+2 GIVN Helen
+2 SURN Corvantis
+1 SEX F
+1 BIRT
+2 DATE ABT 1788
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 20 NOV 1840
+2 PLAC Copenhagen, Denmark
+1 OCCU Tailor
+1 FAMC @F67@
+1 FAMS @F90@
+0 @I276@ INDI
+1 NAME Laura /Fennaway/
+2 GIVN Laura
+2 SURN Fennaway
+1 SEX F
+1 BIRT
+2 DATE 21 JUL 1877
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE ABT 1949
+2 PLAC Portland, Oregon, United States
+1 OCCU Nurse
+1 FAMS @F68@
+0 @I277@ INDI
+1 NAME Ida /Varnquist/
+2 GIVN Ida
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 10 NOV 1908
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE 24 AUG 1943
+2 PLAC Toronto, Ontario, Canada
+1 FAMC @F68@
+0 @I278@ INDI
+1 NAME Simon /Varnquist/
+2 GIVN Simon
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 1 JUL 1910
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE 1918
+2 PLAC Portland, Oregon, United States
+1 OCCU Merchant
+1 FAMC @F68@
+0 @I279@ INDI
+1 NAME Samuel /Varnquist/
+2 GIVN Samuel
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 24 NOV 1911
+2 PLAC Denver, Colorado, United States
+1 DEAT
+2 DATE 8 FEB 1997
+2 PLAC Denver, Colorado, United States
+1 FAMC @F68@
+0 @I280@ INDI
+1 NAME Louisa /Varnquist/
+2 GIVN Louisa
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 21 JAN 1912
+2 PLAC Chicago, Illinois, United States
+1 DEAT
+2 DATE 24 DEC 2002
+2 PLAC Chicago, Illinois, United States
+1 OCCU Clerk
+1 FAMC @F68@
+1 FAMS @F87@
+0 @I281@ INDI
+1 NAME Nora /Varnquist/
+2 GIVN Nora
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE ABT 1915
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE 21 SEP 1923
+2 PLAC Portland, Oregon, United States
+1 FAMC @F68@
+1 FAMS @F74@
+0 @I282@ INDI
+1 NAME Elizabeth /Varnquist/
+2 GIVN Elizabeth
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 22 SEP 1918
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE ABT 1979
+2 PLAC Seattle, Washington, United States
+1 FAMC @F68@
+0 @I283@ INDI
+1 NAME Samuel /Teshmore/
+2 GIVN Samuel
+2 SURN Teshmore
+1 SEX M
+1 BIRT
+2 DATE 1934
+2 PLAC New York, New York, United States
+1 DEAT
+2 DATE 17 JAN 2015
+2 PLAC New York, New York, United States
+1 OCCU Printer
+1 FAMS @F69@
+0 @I284@ INDI
+1 NAME Henry /Teshmore/
+2 GIVN Henry
+2 SURN Teshmore
+1 SEX M
+1 BIRT
+2 DATE 8 DEC 1959
+2 PLAC New York, New York, United States
+1 FAMC @F69@
+0 @I285@ INDI
+1 NAME Catherine /Teshmore/
+2 GIVN Catherine
+2 SURN Teshmore
+1 SEX F
+1 BIRT
+2 DATE 6 DEC 1962
+2 PLAC New York, New York, United States
+1 OCCU Printer
+1 FAMC @F69@
+0 @I286@ INDI
+1 NAME Edward /Teshmore/
+2 GIVN Edward
+2 SURN Teshmore
+1 SEX M
+1 BIRT
+2 DATE ABT 1963
+2 PLAC New York, New York, United States
+1 OCCU Clerk
+1 FAMC @F69@
+0 @I287@ INDI
+1 NAME Walter /Varnquist/
+2 GIVN Walter
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 20 APR 1732
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 28 NOV 1767
+2 PLAC Lyon, France
+1 OCCU Blacksmith
+1 FAMS @F70@
+0 @I288@ INDI
+1 NAME Walter /Varnquist/
+2 GIVN Walter
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 1759
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 1767
+2 PLAC Lyon, France
+1 OCCU Nurse
+1 FAMC @F70@
+0 @I289@ INDI
+1 NAME Laura /Varnquist/
+2 GIVN Laura
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 17 DEC 1762
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 1 JUL 1814
+2 PLAC Lyon, France
+1 OCCU Merchant
+1 FAMC @F70@
+0 @I290@ INDI
+1 NAME David /Varnquist/
+2 GIVN David
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE ABT 1764
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 1765
+2 PLAC Oslo, Norway
+1 OCCU Merchant
+1 FAMC @F70@
+0 @I291@ INDI
+1 NAME Thomas /Varnquist/
+2 GIVN Thomas
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 19 FEB 1765
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 6 MAR 1842
+2 PLAC Hamburg, Germany
+1 OCCU Merchant
+1 FAMC @F70@
+0 @I292@ INDI
+1 NAME Felix /Varnquist/
+2 GIVN Felix
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 4 FEB 1766
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 6 JUN 1827
+2 PLAC Lyon, France
+1 OCCU Engineer
+1 FAMC @F70@
+0 @I293@ INDI
+1 NAME Simon /Varnquist/
+2 GIVN Simon
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 1768
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 5 DEC 1849
+2 PLAC Rotterdam, Netherlands
+1 OCCU Sailor
+1 FAMC @F70@
+1 FAMS @F88@
+0 @I294@ INDI
+1 NAME Laura /Corvantis/
+2 GIVN Laura
+2 SURN Corvantis
+1 SEX F
+1 BIRT
+2 DATE 2 DEC 1887
+2 PLAC St. Louis, Missouri, United States
+1 DEAT
+2 DATE 2 FEB 1888
+2 PLAC Denver, Colorado, United States
+1 FAMS @F71@
+0 @I295@ INDI
+1 NAME Clara /Ashgrove-Lunt/
+2 GIVN Clara
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE 1914
+2 PLAC New York, New York, United States
+1 DEAT
+2 DATE 27 SEP 2004
+2 PLAC New York, New York, United States
+1 OCCU Merchant
+1 FAMC @F71@
+0 @I296@ INDI
+1 NAME Frances /Corvantis/
+2 GIVN Frances
+2 SURN Corvantis
+1 SEX F
+1 BIRT
+2 DATE ABT 1798
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 1879
+2 PLAC Liverpool, England, United Kingdom
+1 OCCU Teacher
+1 FAMS @F72@
+0 @I297@ INDI
+1 NAME Charles /Quillane/
+2 GIVN Charles
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE ABT 1828
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 4 JAN 1918
+2 PLAC Omaha, Nebraska, United States
+1 FAMC @F72@
+1 FAMS @F98@
+0 @I298@ INDI
+1 NAME Laura /Quillane/
+2 GIVN Laura
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 28 NOV 1831
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 25 NOV 1839
+2 PLAC Copenhagen, Denmark
+1 OCCU Miller
+1 FAMC @F72@
+0 @I299@ INDI
+1 NAME Peter /Quillane/
+2 GIVN Peter
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 16 FEB 1834
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 26 NOV 1835
+2 PLAC Liverpool, England, United Kingdom
+1 OCCU Blacksmith
+1 FAMC @F72@
+0 @I300@ INDI
+1 NAME Martha /Quillane/
+2 GIVN Martha
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 11 JUN 1836
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 1 JUN 1837
+2 PLAC Liverpool, England, United Kingdom
+1 FAMC @F72@
+0 @I301@ INDI
+1 NAME Ruth /Quillane/
+2 GIVN Ruth
+2 SURN Quillane
+1 SEX F
+1 BIRT
+2 DATE 10 JAN 1839
+2 PLAC Gothenburg, Sweden
+1 DEAT
+2 DATE 12 JUN 1891
+2 PLAC Gothenburg, Sweden
+1 OCCU Merchant
+1 FAMC @F72@
+0 @I302@ INDI
+1 NAME Alice /Ellisandt/
+2 GIVN Alice
+2 SURN Ellisandt
+1 SEX F
+1 BIRT
+2 DATE 1941
+2 PLAC Portland, Oregon, United States
+1 FAMS @F73@
+0 @I303@ INDI
+1 NAME Grace /Varnquist/
+2 GIVN Grace
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 10 OCT 1968
+2 PLAC Portland, Oregon, United States
+1 FAMC @F73@
+0 @I304@ INDI
+1 NAME Martha /Varnquist/
+2 GIVN Martha
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 26 JUL 1970
+2 PLAC Portland, Oregon, United States
+1 OCCU Miller
+1 FAMC @F73@
+0 @I305@ INDI
+1 NAME Rose /Varnquist/
+2 GIVN Rose
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 17 FEB 1973
+2 PLAC Portland, Oregon, United States
+1 OCCU Printer
+1 FAMC @F73@
+0 @I306@ INDI
+1 NAME Felix /Orbeline/
+2 GIVN Felix
+2 SURN Orbeline
+1 SEX M
+1 BIRT
+2 DATE 23 JAN 1915
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE 7 DEC 1923
+2 PLAC St. Louis, Missouri, United States
+1 FAMS @F74@
+0 @I307@ INDI
+1 NAME George /Orbeline/
+2 GIVN George
+2 SURN Orbeline
+1 SEX M
+1 BIRT
+2 DATE ABT 1948
+2 PLAC Portland, Oregon, United States
+1 OCCU Blacksmith
+1 FAMC @F74@
+0 @I308@ INDI
+1 NAME Emma /Orbeline/
+2 GIVN Emma
+2 SURN Orbeline
+1 SEX F
+1 BIRT
+2 DATE ABT 1951
+2 PLAC Portland, Oregon, United States
+1 FAMC @F74@
+1 FAMS @F97@
+0 @I309@ INDI
+1 NAME Margaret /Orbeline/
+2 GIVN Margaret
+2 SURN Orbeline
+1 SEX F
+1 BIRT
+2 DATE 7 MAY 1952
+2 PLAC Denver, Colorado, United States
+1 FAMC @F74@
+1 FAMS @F76@
+0 @I310@ INDI
+1 NAME Edward /Calderhoff/
+2 GIVN Edward
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 1902
+2 PLAC Boston, Massachusetts, United States
+1 DEAT
+2 DATE 16 FEB 1937
+2 PLAC Boston, Massachusetts, United States
+1 OCCU Nurse
+1 FAMS @F75@
+0 @I311@ INDI
+1 NAME Frances /Calderhoff/
+2 GIVN Frances
+2 SURN Calderhoff
+1 SEX F
+1 BIRT
+2 DATE 26 MAR 1936
+2 PLAC Omaha, Nebraska, United States
+1 FAMC @F75@
+0 @I312@ INDI
+1 NAME Margaret /Calderhoff/
+2 GIVN Margaret
+2 SURN Calderhoff
+1 SEX F
+1 BIRT
+2 DATE 1937
+2 PLAC Boston, Massachusetts, United States
+1 FAMC @F75@
+0 @I313@ INDI
+1 NAME Thomas /Calderhoff/
+2 GIVN Thomas
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 1939
+2 PLAC Minneapolis, Minnesota, United States
+1 OCCU Tailor
+1 FAMC @F75@
+0 @I314@ INDI
+1 NAME George /Saltmere/
+2 GIVN George
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 6 MAY 1948
+2 PLAC Minneapolis, Minnesota, United States
+1 FAMS @F76@
+0 @I315@ INDI
+1 NAME Margaret /Saltmere/
+2 GIVN Margaret
+2 SURN Saltmere
+1 SEX F
+1 BIRT
+2 DATE 1985
+2 PLAC Minneapolis, Minnesota, United States
+1 OCCU Farmer
+1 FAMC @F76@
+1 FAMS @F86@
+0 @I316@ INDI
+1 NAME Peter /Pembrask/
+2 GIVN Peter
+2 SURN Pembrask
+1 SEX M
+1 BIRT
+2 DATE 6 FEB 1882
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE 1972
+2 PLAC Seattle, Washington, United States
+1 FAMS @F77@
+0 @I317@ INDI
+1 NAME Edward /Pembrask/
+2 GIVN Edward
+2 SURN Pembrask
+1 SEX M
+1 BIRT
+2 DATE 23 SEP 1911
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE 1912
+2 PLAC Chicago, Illinois, United States
+1 OCCU Farmer
+1 FAMC @F77@
+0 @I318@ INDI
+1 NAME Peter /Saltmere/
+2 GIVN Peter
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 13 JUL 1908
+2 PLAC New York, New York, United States
+1 DEAT
+2 DATE 1989
+2 PLAC New York, New York, United States
+1 OCCU Tailor
+1 FAMS @F78@
+0 @I319@ INDI
+1 NAME Samuel /Saltmere/
+2 GIVN Samuel
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 21 JAN 1937
+2 PLAC New York, New York, United States
+1 OCCU Merchant
+1 FAMC @F78@
+0 @I320@ INDI
+1 NAME Elizabeth /Saltmere/
+2 GIVN Elizabeth
+2 SURN Saltmere
+1 SEX F
+1 BIRT
+2 DATE 10 MAY 1938
+2 PLAC New York, New York, United States
+1 DEAT
+2 DATE 18 SEP 2015
+2 PLAC Portland, Oregon, United States
+1 OCCU Teacher
+1 FAMC @F78@
+1 FAMS @F96@
+0 @I321@ INDI
+1 NAME Helen /Saltmere/
+2 GIVN Helen
+2 SURN Saltmere
+1 SEX F
+1 BIRT
+2 DATE 21 APR 1940
+2 PLAC New York, New York, United States
+1 FAMC @F78@
+0 @I322@ INDI
+1 NAME Rose /Varnquist/
+2 GIVN Rose
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE ABT 1698
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE 23 OCT 1706
+2 PLAC Liverpool, England, United Kingdom
+1 OCCU Baker
+1 FAMS @F79@
+0 @I323@ INDI
+1 NAME Martha /Pembrask/
+2 GIVN Martha
+2 SURN Pembrask
+1 SEX F
+1 BIRT
+2 DATE 12 OCT 1731
+2 PLAC Dublin, Ireland
+1 DEAT
+2 DATE 5 AUG 1766
+2 PLAC Hamburg, Germany
+1 FAMC @F79@
+0 @I324@ INDI
+1 NAME Paul /Pembrask/
+2 GIVN Paul
+2 SURN Pembrask
+1 SEX M
+1 BIRT
+2 DATE 24 JUN 1734
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE 15 DEC 1742
+2 PLAC Liverpool, England, United Kingdom
+1 FAMC @F79@
+0 @I325@ INDI
+1 NAME Martin /Pembrask/
+2 GIVN Martin
+2 SURN Pembrask
+1 SEX M
+1 BIRT
+2 DATE 1736
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE 15 NOV 1797
+2 PLAC Bremen, Germany
+1 OCCU Merchant
+1 FAMC @F79@
+0 @I326@ INDI
+1 NAME William /Holtzbrand/
+2 GIVN William
+2 SURN Holtzbrand
+1 SEX M
+1 BIRT
+2 DATE ABT 1729
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 10 DEC 1819
+2 PLAC Liverpool, England, United Kingdom
+1 FAMS @F80@
+0 @I327@ INDI
+1 NAME Charles /Holtzbrand/
+2 GIVN Charles
+2 SURN Holtzbrand
+1 SEX M
+1 BIRT
+2 DATE 1750
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 8 DEC 1822
+2 PLAC Liverpool, England, United Kingdom
+1 OCCU Miller
+1 FAMC @F80@
+0 @I328@ INDI
+1 NAME David /Calderhoff/
+2 GIVN David
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 17 JUN 1724
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 11 APR 1796
+2 PLAC Hamburg, Germany
+1 OCCU Tailor
+1 FAMS @F81@
+0 @I329@ INDI
+1 NAME Helen /Calderhoff/
+2 GIVN Helen
+2 SURN Calderhoff
+1 SEX F
+1 BIRT
+2 DATE 24 FEB 1749
+2 PLAC Bergen, Norway
+1 DEAT
+2 DATE 22 FEB 1817
+2 PLAC Amsterdam, Netherlands
+1 OCCU Printer
+1 FAMC @F81@
+0 @I330@ INDI
+1 NAME Lena /Calderhoff/
+2 GIVN Lena
+2 SURN Calderhoff
+1 SEX F
+1 BIRT
+2 DATE 5 MAR 1750
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE 1831
+2 PLAC Bordeaux, France
+1 OCCU Baker
+1 FAMC @F81@
+0 @I331@ INDI
+1 NAME Alice /Calderhoff/
+2 GIVN Alice
+2 SURN Calderhoff
+1 SEX F
+1 BIRT
+2 DATE 7 FEB 1753
+2 PLAC Oslo, Norway
+1 DEAT
+2 DATE 4 MAY 1839
+2 PLAC Oslo, Norway
+1 OCCU Farmer
+1 FAMC @F81@
+0 @I332@ INDI
+1 NAME Robert /Calderhoff/
+2 GIVN Robert
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 13 AUG 1755
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 13 JUL 1763
+2 PLAC Hamburg, Germany
+1 OCCU Sailor
+1 FAMC @F81@
+0 @I333@ INDI
+1 NAME Felix /Calderhoff/
+2 GIVN Felix
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 17 NOV 1757
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 1 MAR 1843
+2 PLAC Hamburg, Germany
+1 OCCU Nurse
+1 FAMC @F81@
+0 @I334@ INDI
+1 NAME Arthur /Druvelle/
+2 GIVN Arthur
+2 SURN Druvelle
+1 SEX M
+1 BIRT
+2 DATE 24 JUL 1967
+2 PLAC Omaha, Nebraska, United States
+1 OCCU Blacksmith
+1 FAMS @F82@
+0 @I335@ INDI
+1 NAME Helen /Druvelle/
+2 GIVN Helen
+2 SURN Druvelle
+1 SEX F
+1 BIRT
+2 DATE 8 JUL 1993
+2 PLAC St. Louis, Missouri, United States
+1 FAMC @F82@
+0 @I336@ INDI
+1 NAME Robert /Druvelle/
+2 GIVN Robert
+2 SURN Druvelle
+1 SEX M
+1 BIRT
+2 DATE 19 DEC 1996
+2 PLAC Denver, Colorado, United States
+1 FAMC @F82@
+0 @I337@ INDI
+1 NAME Frances /Varnquist/
+2 GIVN Frances
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 28 APR 1873
+2 PLAC St. Louis, Missouri, United States
+1 DEAT
+2 DATE 21 NOV 1925
+2 PLAC St. Louis, Missouri, United States
+1 OCCU Baker
+1 FAMS @F83@
+0 @I338@ INDI
+1 NAME Charles /Fennaway/
+2 GIVN Charles
+2 SURN Fennaway
+1 SEX M
+1 BIRT
+2 DATE 28 APR 1902
+2 PLAC St. Louis, Missouri, United States
+1 DEAT
+2 DATE 21 FEB 1937
+2 PLAC St. Louis, Missouri, United States
+1 OCCU Printer
+1 FAMC @F83@
+0 @I339@ INDI
+1 NAME Anna /Fennaway/
+2 GIVN Anna
+2 SURN Fennaway
+1 SEX F
+1 BIRT
+2 DATE 11 MAY 1905
+2 PLAC St. Louis, Missouri, United States
+1 DEAT
+2 DATE 4 JUL 1982
+2 PLAC St. Louis, Missouri, United States
+1 FAMC @F83@
+0 @I340@ INDI
+1 NAME Ruth /Fennaway/
+2 GIVN Ruth
+2 SURN Fennaway
+1 SEX F
+1 BIRT
+2 DATE 13 DEC 1907
+2 PLAC St. Louis, Missouri, United States
+1 DEAT
+2 DATE 6 MAY 1997
+2 PLAC St. Louis, Missouri, United States
+1 FAMC @F83@
+0 @I341@ INDI
+1 NAME Walter /Fennaway/
+2 GIVN Walter
+2 SURN Fennaway
+1 SEX M
+1 BIRT
+2 DATE ABT 1910
+2 PLAC St. Louis, Missouri, United States
+1 DEAT
+2 DATE 28 JUL 2000
+2 PLAC St. Louis, Missouri, United States
+1 OCCU Teacher
+1 FAMC @F83@
+0 @I342@ INDI
+1 NAME Nora /Fennaway/
+2 GIVN Nora
+2 SURN Fennaway
+1 SEX F
+1 BIRT
+2 DATE 22 MAR 1911
+2 PLAC St. Louis, Missouri, United States
+1 DEAT
+2 DATE ABT 1997
+2 PLAC St. Louis, Missouri, United States
+1 OCCU Blacksmith
+1 FAMC @F83@
+0 @I343@ INDI
+1 NAME Martha /Fennaway/
+2 GIVN Martha
+2 SURN Fennaway
+1 SEX F
+1 BIRT
+2 DATE 27 AUG 1913
+2 PLAC St. Louis, Missouri, United States
+1 DEAT
+2 DATE ABT 1948
+2 PLAC St. Louis, Missouri, United States
+1 OCCU Merchant
+1 FAMC @F83@
+0 @I344@ INDI
+1 NAME Alice /Kestrander/
+2 GIVN Alice
+2 SURN Kestrander
+1 SEX F
+1 BIRT
+2 DATE 7 MAR 1699
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE 7 SEP 1780
+2 PLAC Bremen, Germany
+1 FAMS @F84@
+0 @I345@ INDI
+1 NAME Elizabeth /Varnquist/
+2 GIVN Elizabeth
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 28 OCT 1732
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE 7 DEC 1822
+2 PLAC Amsterdam, Netherlands
+1 FAMC @F84@
+0 @I346@ INDI
+1 NAME Henry /Calderhoff/
+2 GIVN Henry
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 1 NOV 1805
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE ABT 1895
+2 PLAC Seattle, Washington, United States
+1 OCCU Farmer
+1 FAMS @F85@
+0 @I347@ INDI
+1 NAME Julia /Calderhoff/
+2 GIVN Julia
+2 SURN Calderhoff
+1 SEX F
+1 BIRT
+2 DATE 24 AUG 1838
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 22 MAR 1890
+2 PLAC Rotterdam, Netherlands
+1 OCCU Clerk
+1 FAMC @F85@
+0 @I348@ INDI
+1 NAME Frederick /Calderhoff/
+2 GIVN Frederick
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 25 FEB 1841
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 20 JUN 1849
+2 PLAC Oslo, Norway
+1 FAMC @F85@
+0 @I349@ INDI
+1 NAME Peter /Calderhoff/
+2 GIVN Peter
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 9 MAY 1842
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 2 JAN 1877
+2 PLAC Lyon, France
+1 OCCU Blacksmith
+1 FAMC @F85@
+0 @I350@ INDI
+1 NAME Albert /Calderhoff/
+2 GIVN Albert
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 14 NOV 1845
+2 PLAC Oslo, Norway
+1 DEAT
+2 DATE 12 OCT 1897
+2 PLAC Chicago, Illinois, United States
+1 OCCU Farmer
+1 FAMC @F85@
+0 @I351@ INDI
+1 NAME Arthur /Calderhoff/
+2 GIVN Arthur
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 8 MAY 1848
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 17 APR 1909
+2 PLAC Toronto, Ontario, Canada
+1 OCCU Printer
+1 FAMC @F85@
+0 @I352@ INDI
+1 NAME Elizabeth /Calderhoff/
+2 GIVN Elizabeth
+2 SURN Calderhoff
+1 SEX F
+1 BIRT
+2 DATE 1851
+2 PLAC Toronto, Ontario, Canada
+1 DEAT
+2 DATE 6 MAR 1928
+2 PLAC Winnipeg, Manitoba, Canada
+1 OCCU Printer
+1 FAMC @F85@
+1 FAMS @F92@
+0 @I353@ INDI
+1 NAME John /Ollendrake/
+2 GIVN John
+2 SURN Ollendrake
+1 SEX M
+1 BIRT
+2 DATE ABT 1982
+2 PLAC Minneapolis, Minnesota, United States
+1 OCCU Clerk
+1 FAMS @F86@
+0 @I354@ INDI
+1 NAME Martin /Ollendrake/
+2 GIVN Martin
+2 SURN Ollendrake
+1 SEX M
+1 BIRT
+2 DATE ABT 2017
+2 PLAC St. Louis, Missouri, United States
+1 FAMC @F86@
+0 @I355@ INDI
+1 NAME Charles /Ollendrake/
+2 GIVN Charles
+2 SURN Ollendrake
+1 SEX M
+1 BIRT
+2 DATE 24 APR 2020
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F86@
+0 @I356@ INDI
+1 NAME Clara /Ollendrake/
+2 GIVN Clara
+2 SURN Ollendrake
+1 SEX F
+1 BIRT
+2 DATE ABT 2023
+2 PLAC Minneapolis, Minnesota, United States
+1 FAMC @F86@
+0 @I357@ INDI
+1 NAME Joseph /Marrowby/
+2 GIVN Joseph
+2 SURN Marrowby
+1 SEX M
+1 BIRT
+2 DATE 27 JUL 1913
+2 PLAC Chicago, Illinois, United States
+1 DEAT
+2 DATE 10 SEP 1981
+2 PLAC Chicago, Illinois, United States
+1 OCCU Merchant
+1 FAMS @F87@
+0 @I358@ INDI
+1 NAME Edward /Marrowby/
+2 GIVN Edward
+2 SURN Marrowby
+1 SEX M
+1 BIRT
+2 DATE 25 AUG 1942
+2 PLAC Toronto, Ontario, Canada
+1 FAMC @F87@
+0 @I359@ INDI
+1 NAME Felix /Marrowby/
+2 GIVN Felix
+2 SURN Marrowby
+1 SEX M
+1 BIRT
+2 DATE 28 APR 1945
+2 PLAC Chicago, Illinois, United States
+1 OCCU Miller
+1 FAMC @F87@
+0 @I360@ INDI
+1 NAME Rose /Marrowby/
+2 GIVN Rose
+2 SURN Marrowby
+1 SEX F
+1 BIRT
+2 DATE 13 NOV 1947
+2 PLAC Chicago, Illinois, United States
+1 OCCU Tailor
+1 FAMC @F87@
+0 @I361@ INDI
+1 NAME Emma /Ollendrake/
+2 GIVN Emma
+2 SURN Ollendrake
+1 SEX F
+1 BIRT
+2 DATE 14 NOV 1769
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 1 DEC 1770
+2 PLAC Hamburg, Germany
+1 OCCU Tailor
+1 FAMS @F88@
+0 @I362@ INDI
+1 NAME Thomas /Varnquist/
+2 GIVN Thomas
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE ABT 1793
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 11 AUG 1845
+2 PLAC Bergen, Norway
+1 OCCU Sailor
+1 FAMC @F88@
+0 @I363@ INDI
+1 NAME Rose /Pembrask/
+2 GIVN Rose
+2 SURN Pembrask
+1 SEX F
+1 BIRT
+2 DATE 20 NOV 1813
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 12 MAR 1885
+2 PLAC Lyon, France
+1 OCCU Blacksmith
+1 FAMS @F89@
+0 @I364@ INDI
+1 NAME Paul /Quillane/
+2 GIVN Paul
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 1845
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 27 OCT 1906
+2 PLAC Lyon, France
+1 FAMC @F89@
+0 @I365@ INDI
+1 NAME Edward /Quillane/
+2 GIVN Edward
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 1847
+2 PLAC Dublin, Ireland
+1 DEAT
+2 DATE 27 JUN 1933
+2 PLAC Dublin, Ireland
+1 OCCU Miller
+1 FAMC @F89@
+0 @I366@ INDI
+1 NAME Robert /Saltmere/
+2 GIVN Robert
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 1 NOV 1785
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 3 NOV 1875
+2 PLAC Copenhagen, Denmark
+1 OCCU Tailor
+1 FAMS @F90@
+0 @I367@ INDI
+1 NAME David /Saltmere/
+2 GIVN David
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 20 FEB 1814
+2 PLAC Oslo, Norway
+1 DEAT
+2 DATE 28 APR 1886
+2 PLAC Oslo, Norway
+1 FAMC @F90@
+0 @I368@ INDI
+1 NAME Ida /Saltmere/
+2 GIVN Ida
+2 SURN Saltmere
+1 SEX F
+1 BIRT
+2 DATE 15 JUN 1815
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE ABT 1867
+2 PLAC Denver, Colorado, United States
+1 FAMC @F90@
+0 @I369@ INDI
+1 NAME Catherine /Pembrask/
+2 GIVN Catherine
+2 SURN Pembrask
+1 SEX F
+1 BIRT
+2 DATE 18 MAR 1798
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE 23 OCT 1884
+2 PLAC Bremen, Germany
+1 OCCU Sailor
+1 FAMS @F91@
+0 @I370@ INDI
+1 NAME Charles /Saltmere/
+2 GIVN Charles
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE ABT 1834
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE 1902
+2 PLAC Bremen, Germany
+1 FAMC @F91@
+0 @I371@ INDI
+1 NAME Margaret /Saltmere/
+2 GIVN Margaret
+2 SURN Saltmere
+1 SEX F
+1 BIRT
+2 DATE 10 APR 1836
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE 7 SEP 1837
+2 PLAC Lyon, France
+1 FAMC @F91@
+0 @I372@ INDI
+1 NAME Thomas /Marrowby/
+2 GIVN Thomas
+2 SURN Marrowby
+1 SEX M
+1 BIRT
+2 DATE 27 AUG 1848
+2 PLAC Toronto, Ontario, Canada
+1 DEAT
+2 DATE 4 SEP 1856
+2 PLAC Toronto, Ontario, Canada
+1 OCCU Blacksmith
+1 FAMS @F92@
+0 @I373@ INDI
+1 NAME Martha /Marrowby/
+2 GIVN Martha
+2 SURN Marrowby
+1 SEX F
+1 BIRT
+2 DATE 14 APR 1883
+2 PLAC Chicago, Illinois, United States
+1 DEAT
+2 DATE ABT 1955
+2 PLAC Chicago, Illinois, United States
+1 OCCU Baker
+1 FAMC @F92@
+0 @I374@ INDI
+1 NAME Samuel /Marrowby/
+2 GIVN Samuel
+2 SURN Marrowby
+1 SEX M
+1 BIRT
+2 DATE 16 AUG 1886
+2 PLAC Toronto, Ontario, Canada
+1 DEAT
+2 DATE 1921
+2 PLAC Toronto, Ontario, Canada
+1 OCCU Miller
+1 FAMC @F92@
+0 @I375@ INDI
+1 NAME Arthur /Marrowby/
+2 GIVN Arthur
+2 SURN Marrowby
+1 SEX M
+1 BIRT
+2 DATE 6 SEP 1889
+2 PLAC Toronto, Ontario, Canada
+1 DEAT
+2 DATE 24 JAN 1950
+2 PLAC Toronto, Ontario, Canada
+1 OCCU Blacksmith
+1 FAMC @F92@
+0 @I376@ INDI
+1 NAME Edward /Druvelle/
+2 GIVN Edward
+2 SURN Druvelle
+1 SEX M
+1 BIRT
+2 DATE 11 AUG 1755
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 16 NOV 1841
+2 PLAC Bergen, Norway
+1 FAMS @F93@
+0 @I377@ INDI
+1 NAME Peter /Druvelle/
+2 GIVN Peter
+2 SURN Druvelle
+1 SEX M
+1 BIRT
+2 DATE 15 JUN 1789
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 22 FEB 1790
+2 PLAC Copenhagen, Denmark
+1 OCCU Tailor
+1 FAMC @F93@
+0 @I378@ INDI
+1 NAME Joseph /Druvelle/
+2 GIVN Joseph
+2 SURN Druvelle
+1 SEX M
+1 BIRT
+2 DATE 12 NOV 1792
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 1 OCT 1869
+2 PLAC Copenhagen, Denmark
+1 OCCU Engineer
+1 FAMC @F93@
+0 @I379@ INDI
+1 NAME Emma /Druvelle/
+2 GIVN Emma
+2 SURN Druvelle
+1 SEX F
+1 BIRT
+2 DATE 24 JUN 1795
+2 PLAC Bergen, Norway
+1 DEAT
+2 DATE ABT 1830
+2 PLAC Bergen, Norway
+1 OCCU Carpenter
+1 FAMC @F93@
+0 @I380@ INDI
+1 NAME Hugo /Saltmere/
+2 GIVN Hugo
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 25 MAR 1803
+2 PLAC Gothenburg, Sweden
+1 DEAT
+2 DATE 23 JUL 1875
+2 PLAC Chicago, Illinois, United States
+1 OCCU Sailor
+1 FAMS @F94@
+0 @I381@ INDI
+1 NAME Robert /Saltmere/
+2 GIVN Robert
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 11 FEB 1823
+2 PLAC Dublin, Ireland
+1 DEAT
+2 DATE ABT 1895
+2 PLAC Dublin, Ireland
+1 OCCU Miller
+1 FAMC @F94@
+0 @I382@ INDI
+1 NAME Charles /Saltmere/
+2 GIVN Charles
+2 SURN Saltmere
+1 SEX M
+1 BIRT
+2 DATE 17 SEP 1825
+2 PLAC Gothenburg, Sweden
+1 DEAT
+2 DATE ABT 1911
+2 PLAC Gothenburg, Sweden
+1 OCCU Sailor
+1 FAMC @F94@
+0 @I383@ INDI
+1 NAME Martha /Castellune/
+2 GIVN Martha
+2 SURN Castellune
+1 SEX F
+1 BIRT
+2 DATE 14 MAY 1841
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 27 MAY 1876
+2 PLAC Omaha, Nebraska, United States
+1 OCCU Merchant
+1 FAMS @F95@
+0 @I384@ INDI
+1 NAME Simon /Calderhoff/
+2 GIVN Simon
+2 SURN Calderhoff
+1 SEX M
+1 BIRT
+2 DATE 27 AUG 1867
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 17 MAY 1944
+2 PLAC New York, New York, United States
+1 OCCU Tailor
+1 FAMC @F95@
+0 @I385@ INDI
+1 NAME Ruth /Calderhoff/
+2 GIVN Ruth
+2 SURN Calderhoff
+1 SEX F
+1 BIRT
+2 DATE ABT 1869
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 16 FEB 1930
+2 PLAC Omaha, Nebraska, United States
+1 OCCU Clerk
+1 FAMC @F95@
+0 @I386@ INDI
+1 NAME Julia /Calderhoff/
+2 GIVN Julia
+2 SURN Calderhoff
+1 SEX F
+1 BIRT
+2 DATE 11 DEC 1872
+2 PLAC Seattle, Washington, United States
+1 DEAT
+2 DATE 19 NOV 1944
+2 PLAC Seattle, Washington, United States
+1 OCCU Engineer
+1 FAMC @F95@
+0 @I387@ INDI
+1 NAME Martha /Calderhoff/
+2 GIVN Martha
+2 SURN Calderhoff
+1 SEX F
+1 BIRT
+2 DATE 2 JUL 1873
+2 PLAC Toronto, Ontario, Canada
+1 DEAT
+2 DATE 13 SEP 1934
+2 PLAC Seattle, Washington, United States
+1 FAMC @F95@
+0 @I388@ INDI
+1 NAME Ruth /Calderhoff/
+2 GIVN Ruth
+2 SURN Calderhoff
+1 SEX F
+1 BIRT
+2 DATE 13 MAY 1876
+2 PLAC Omaha, Nebraska, United States
+1 DEAT
+2 DATE 2 APR 1877
+2 PLAC Boston, Massachusetts, United States
+1 FAMC @F95@
+0 @I389@ INDI
+1 NAME Samuel /Brennholt/
+2 GIVN Samuel
+2 SURN Brennholt
+1 SEX M
+1 BIRT
+2 DATE ABT 1935
+2 PLAC Portland, Oregon, United States
+1 DEAT
+2 DATE ABT 2012
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMS @F96@
+0 @I390@ INDI
+1 NAME Helen /Brennholt/
+2 GIVN Helen
+2 SURN Brennholt
+1 SEX F
+1 BIRT
+2 DATE 18 OCT 1963
+2 PLAC Portland, Oregon, United States
+1 OCCU Sailor
+1 FAMC @F96@
+0 @I391@ INDI
+1 NAME Ruth /Brennholt/
+2 GIVN Ruth
+2 SURN Brennholt
+1 SEX F
+1 BIRT
+2 DATE 5 NOV 1964
+2 PLAC Denver, Colorado, United States
+1 FAMC @F96@
+0 @I392@ INDI
+1 NAME Catherine /Brennholt/
+2 GIVN Catherine
+2 SURN Brennholt
+1 SEX F
+1 BIRT
+2 DATE 23 OCT 1965
+2 PLAC St. Louis, Missouri, United States
+1 OCCU Miller
+1 FAMC @F96@
+0 @I393@ INDI
+1 NAME Felix /Ollendrake/
+2 GIVN Felix
+2 SURN Ollendrake
+1 SEX M
+1 BIRT
+2 DATE ABT 1951
+2 PLAC Toronto, Ontario, Canada
+1 OCCU Farmer
+1 FAMS @F97@
+0 @I394@ INDI
+1 NAME Paul /Ollendrake/
+2 GIVN Paul
+2 SURN Ollendrake
+1 SEX M
+1 BIRT
+2 DATE 21 AUG 1981
+2 PLAC Toronto, Ontario, Canada
+1 FAMC @F97@
+0 @I395@ INDI
+1 NAME Frederick /Ollendrake/
+2 GIVN Frederick
+2 SURN Ollendrake
+1 SEX M
+1 BIRT
+2 DATE 6 FEB 1983
+2 PLAC Toronto, Ontario, Canada
+1 OCCU Merchant
+1 FAMC @F97@
+0 @I396@ INDI
+1 NAME Grace /Ollendrake/
+2 GIVN Grace
+2 SURN Ollendrake
+1 SEX F
+1 BIRT
+2 DATE 28 JAN 1986
+2 PLAC Toronto, Ontario, Canada
+1 FAMC @F97@
+0 @I397@ INDI
+1 NAME Rose /Fennaway/
+2 GIVN Rose
+2 SURN Fennaway
+1 SEX F
+1 BIRT
+2 DATE 4 NOV 1827
+2 PLAC New York, New York, United States
+1 DEAT
+2 DATE 28 MAR 1828
+2 PLAC New York, New York, United States
+1 OCCU Miller
+1 FAMS @F98@
+0 @I398@ INDI
+1 NAME Walter /Quillane/
+2 GIVN Walter
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 1860
+2 PLAC Winnipeg, Manitoba, Canada
+1 DEAT
+2 DATE 10 MAR 1950
+2 PLAC Winnipeg, Manitoba, Canada
+1 FAMC @F98@
+0 @I399@ INDI
+1 NAME David /Quillane/
+2 GIVN David
+2 SURN Quillane
+1 SEX M
+1 BIRT
+2 DATE 11 JAN 1863
+2 PLAC New York, New York, United States
+1 DEAT
+2 DATE 21 OCT 1944
+2 PLAC Winnipeg, Manitoba, Canada
+1 OCCU Nurse
+1 FAMC @F98@
+0 @I400@ INDI
+1 NAME Frederick /Brennholt/
+2 GIVN Frederick
+2 SURN Brennholt
+1 SEX M
+1 BIRT
+2 DATE ABT 1804
+2 PLAC Bergen, Norway
+1 DEAT
+2 DATE 2 FEB 1812
+2 PLAC Bergen, Norway
+1 FAMS @F99@
+0 @I401@ INDI
+1 NAME Samuel /Brennholt/
+2 GIVN Samuel
+2 SURN Brennholt
+1 SEX M
+1 BIRT
+2 DATE ABT 1832
+2 PLAC Bergen, Norway
+1 DEAT
+2 DATE 13 AUG 1909
+2 PLAC Bergen, Norway
+1 OCCU Baker
+1 FAMC @F99@
+0 @I402@ INDI
+1 NAME Samuel /Brennholt/
+2 GIVN Samuel
+2 SURN Brennholt
+1 SEX M
+1 BIRT
+2 DATE 22 JUL 1834
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 22 MAR 1895
+2 PLAC Copenhagen, Denmark
+1 FAMC @F99@
+0 @I403@ INDI
+1 NAME George /Brennholt/
+2 GIVN George
+2 SURN Brennholt
+1 SEX M
+1 BIRT
+2 DATE 14 SEP 1836
+2 PLAC Bergen, Norway
+1 DEAT
+2 DATE 21 AUG 1837
+2 PLAC Bergen, Norway
+1 OCCU Teacher
+1 FAMC @F99@
+0 @I404@ INDI
+1 NAME Frances /Brennholt/
+2 GIVN Frances
+2 SURN Brennholt
+1 SEX F
+1 BIRT
+2 DATE 5 NOV 1838
+2 PLAC Bergen, Norway
+1 DEAT
+2 DATE 1 JAN 1873
+2 PLAC Bergen, Norway
+1 FAMC @F99@
+0 @I405@ INDI
+1 NAME Henry /Brennholt/
+2 GIVN Henry
+2 SURN Brennholt
+1 SEX M
+1 BIRT
+2 DATE 4 FEB 1840
+2 PLAC Bergen, Norway
+1 DEAT
+2 DATE 4 MAR 1926
+2 PLAC Bergen, Norway
+1 OCCU Clerk
+1 FAMC @F99@
+0 @I406@ INDI
+1 NAME Catherine /Brennholt/
+2 GIVN Catherine
+2 SURN Brennholt
+1 SEX F
+1 BIRT
+2 DATE 9 DEC 1843
+2 PLAC Bergen, Norway
+1 DEAT
+2 DATE 15 DEC 1915
+2 PLAC New York, New York, United States
+1 OCCU Clerk
+1 FAMC @F99@
+0 @I407@ INDI
+1 NAME Thomas /Varnquist/
+2 GIVN Thomas
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 2 JUN 1786
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 1821
+2 PLAC Copenhagen, Denmark
+1 OCCU Merchant
+1 FAMS @F100@
+0 @I408@ INDI
+1 NAME Felix /Varnquist/
+2 GIVN Felix
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 1814
+2 PLAC Liverpool, England, United Kingdom
+1 DEAT
+2 DATE 21 SEP 1849
+2 PLAC Liverpool, England, United Kingdom
+1 OCCU Sailor
+1 FAMC @F100@
+0 @I409@ INDI
+1 NAME Samuel /Varnquist/
+2 GIVN Samuel
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 15 NOV 1816
+2 PLAC Dublin, Ireland
+1 DEAT
+2 DATE ABT 1824
+2 PLAC Dublin, Ireland
+1 OCCU Sailor
+1 FAMC @F100@
+0 @I410@ INDI
+1 NAME Margaret /Varnquist/
+2 GIVN Margaret
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 1817
+2 PLAC Lyon, France
+1 DEAT
+2 DATE 1 NOV 1818
+2 PLAC Bordeaux, France
+1 FAMC @F100@
+0 @I411@ INDI
+1 NAME Grace /Ashgrove-Lunt/
+2 GIVN Grace
+2 SURN Ashgrove-Lunt
+1 SEX F
+1 BIRT
+2 DATE 20 FEB 1757
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 10 DEC 1818
+2 PLAC Hamburg, Germany
+1 FAMS @F101@
+0 @I412@ INDI
+1 NAME Edward /Varnquist/
+2 GIVN Edward
+2 SURN Varnquist
+1 SEX M
+1 BIRT
+2 DATE 28 AUG 1790
+2 PLAC Rotterdam, Netherlands
+1 DEAT
+2 DATE 11 JUN 1791
+2 PLAC Bergen, Norway
+1 FAMC @F101@
+0 @I413@ INDI
+1 NAME Laura /Varnquist/
+2 GIVN Laura
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE 1791
+2 PLAC Hamburg, Germany
+1 DEAT
+2 DATE 6 MAR 1792
+2 PLAC Bremen, Germany
+1 OCCU Carpenter
+1 FAMC @F101@
+0 @I414@ INDI
+1 NAME Laura /Varnquist/
+2 GIVN Laura
+2 SURN Varnquist
+1 SEX F
+1 BIRT
+2 DATE ABT 1793
+2 PLAC Bordeaux, France
+1 DEAT
+2 DATE ABT 1870
+2 PLAC Boston, Massachusetts, United States
+1 FAMC @F101@
+0 @I415@ INDI
+1 NAME Margaret /Thornquay/
+2 GIVN Margaret
+2 SURN Thornquay
+1 SEX F
+1 BIRT
+2 DATE ABT 1782
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE ABT 1863
+2 PLAC Copenhagen, Denmark
+1 FAMS @F102@
+0 @I416@ INDI
+1 NAME Paul /Pembrask/
+2 GIVN Paul
+2 SURN Pembrask
+1 SEX M
+1 BIRT
+2 DATE 25 OCT 1811
+2 PLAC Bremen, Germany
+1 DEAT
+2 DATE 9 JAN 1863
+2 PLAC Bremen, Germany
+1 OCCU Baker
+1 FAMC @F102@
+0 @I417@ INDI
+1 NAME Ruth /Pembrask/
+2 GIVN Ruth
+2 SURN Pembrask
+1 SEX F
+1 BIRT
+2 DATE 21 DEC 1812
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE 1813
+2 PLAC Copenhagen, Denmark
+1 OCCU Sailor
+1 FAMC @F102@
+0 @I418@ INDI
+1 NAME Julia /Pembrask/
+2 GIVN Julia
+2 SURN Pembrask
+1 SEX F
+1 BIRT
+2 DATE 1815
+2 PLAC Amsterdam, Netherlands
+1 DEAT
+2 DATE 5 OCT 1883
+2 PLAC Amsterdam, Netherlands
+1 FAMC @F102@
+0 @I419@ INDI
+1 NAME Frederick /Pembrask/
+2 GIVN Frederick
+2 SURN Pembrask
+1 SEX M
+1 BIRT
+2 DATE 1816
+2 PLAC Copenhagen, Denmark
+1 DEAT
+2 DATE ABT 1824
+2 PLAC Gothenburg, Sweden
+1 OCCU Carpenter
+1 FAMC @F102@
+0 @I420@ INDI
+1 NAME Henry /Pembrask/
+2 GIVN Henry
+2 SURN Pembrask
+1 SEX M
+1 BIRT
+2 DATE 13 OCT 1818
+2 PLAC Lyon, France
+1 DEAT
+2 DATE ABT 1853
+2 PLAC Lyon, France
+1 OCCU Teacher
+1 FAMC @F102@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 MARR
+2 DATE 23 JAN 1670
+2 PLAC Copenhagen, Denmark
+1 CHIL @I3@
+1 CHIL @I4@
+1 CHIL @I5@
+0 @F2@ FAM
+1 HUSB @I3@
+1 WIFE @I6@
+1 MARR
+2 DATE 9 JUL 1694
+2 PLAC Bordeaux, France
+1 CHIL @I7@
+1 CHIL @I8@
+1 CHIL @I9@
+1 CHIL @I10@
+0 @F3@ FAM
+1 HUSB @I7@
+1 WIFE @I11@
+1 MARR
+2 DATE 27 JAN 1720
+2 PLAC Bordeaux, France
+1 CHIL @I12@
+1 CHIL @I13@
+1 CHIL @I14@
+1 CHIL @I15@
+1 CHIL @I16@
+0 @F4@ FAM
+1 HUSB @I12@
+1 WIFE @I17@
+1 MARR
+2 DATE 5 OCT 1751
+2 PLAC Hamburg, Germany
+1 CHIL @I18@
+1 CHIL @I19@
+1 CHIL @I20@
+0 @F5@ FAM
+1 HUSB @I18@
+1 WIFE @I21@
+1 MARR
+2 DATE 28 SEP 1781
+2 PLAC Liverpool, England, United Kingdom
+1 CHIL @I22@
+1 CHIL @I23@
+1 CHIL @I24@
+0 @F6@ FAM
+1 HUSB @I22@
+1 WIFE @I25@
+1 MARR
+2 DATE 16 JUN 1815
+2 PLAC Liverpool, England, United Kingdom
+1 CHIL @I26@
+1 CHIL @I27@
+1 CHIL @I28@
+1 CHIL @I29@
+1 CHIL @I30@
+0 @F7@ FAM
+1 HUSB @I26@
+1 WIFE @I31@
+1 MARR
+2 DATE 18 SEP 1842
+2 PLAC Hamburg, Germany
+1 CHIL @I32@
+1 CHIL @I33@
+1 CHIL @I34@
+0 @F8@ FAM
+1 HUSB @I34@
+1 WIFE @I35@
+1 MARR
+2 DATE 13 APR 1872
+2 PLAC New York, New York, United States
+1 CHIL @I36@
+1 CHIL @I37@
+1 CHIL @I38@
+1 CHIL @I39@
+1 CHIL @I40@
+0 @F9@ FAM
+1 HUSB @I36@
+1 WIFE @I41@
+1 MARR
+2 DATE 1900
+2 PLAC Minneapolis, Minnesota, United States
+1 CHIL @I42@
+1 CHIL @I43@
+1 CHIL @I44@
+0 @F10@ FAM
+1 HUSB @I44@
+1 WIFE @I45@
+1 MARR
+2 DATE ABT 1935
+2 PLAC Omaha, Nebraska, United States
+1 CHIL @I46@
+1 CHIL @I47@
+1 CHIL @I48@
+0 @F11@ FAM
+1 HUSB @I46@
+1 WIFE @I49@
+1 MARR
+2 DATE 13 AUG 1967
+2 PLAC Winnipeg, Manitoba, Canada
+1 CHIL @I50@
+1 CHIL @I51@
+1 CHIL @I52@
+0 @F12@ FAM
+1 HUSB @I50@
+1 WIFE @I53@
+1 MARR
+2 DATE 9 OCT 1991
+2 PLAC Minneapolis, Minnesota, United States
+1 CHIL @I54@
+1 CHIL @I55@
+1 CHIL @I56@
+0 @F13@ FAM
+1 HUSB @I57@
+1 WIFE @I13@
+1 MARR
+2 DATE 1747
+2 PLAC Bordeaux, France
+1 CHIL @I58@
+1 CHIL @I59@
+1 CHIL @I60@
+1 CHIL @I61@
+0 @F14@ FAM
+1 HUSB @I62@
+1 WIFE @I30@
+1 MARR
+2 DATE 3 SEP 1851
+2 PLAC Omaha, Nebraska, United States
+1 CHIL @I63@
+1 CHIL @I64@
+1 CHIL @I65@
+1 CHIL @I66@
+1 CHIL @I67@
+0 @F15@ FAM
+1 HUSB @I68@
+1 WIFE @I33@
+1 MARR
+2 DATE 1871
+2 PLAC Boston, Massachusetts, United States
+1 CHIL @I69@
+1 CHIL @I70@
+1 CHIL @I71@
+0 @F16@ FAM
+1 HUSB @I72@
+1 WIFE @I4@
+1 MARR
+2 DATE 19 SEP 1697
+2 PLAC Copenhagen, Denmark
+1 CHIL @I73@
+1 CHIL @I74@
+1 CHIL @I75@
+0 @F17@ FAM
+1 HUSB @I19@
+1 WIFE @I76@
+1 MARR
+2 DATE 1780
+2 PLAC Bremen, Germany
+1 CHIL @I77@
+0 @F18@ FAM
+1 HUSB @I5@
+1 WIFE @I78@
+1 MARR
+2 DATE 16 SEP 1705
+2 PLAC Bordeaux, France
+1 CHIL @I79@
+1 CHIL @I80@
+0 @F19@ FAM
+1 HUSB @I81@
+1 WIFE @I8@
+1 MARR
+2 DATE 7 APR 1722
+2 PLAC Bergen, Norway
+1 CHIL @I82@
+1 CHIL @I83@
+1 CHIL @I84@
+0 @F20@ FAM
+1 HUSB @I70@
+1 WIFE @I85@
+1 MARR
+2 DATE 6 DEC 1897
+2 PLAC Boston, Massachusetts, United States
+1 CHIL @I86@
+1 CHIL @I87@
+1 CHIL @I88@
+1 CHIL @I89@
+0 @F21@ FAM
+1 HUSB @I37@
+1 WIFE @I90@
+1 MARR
+2 DATE 19 OCT 1899
+2 PLAC Winnipeg, Manitoba, Canada
+1 CHIL @I91@
+1 CHIL @I92@
+1 CHIL @I93@
+1 CHIL @I94@
+1 CHIL @I95@
+1 CHIL @I96@
+0 @F22@ FAM
+1 HUSB @I97@
+1 WIFE @I51@
+1 MARR
+2 DATE 25 SEP 2002
+2 PLAC Toronto, Ontario, Canada
+1 CHIL @I98@
+0 @F23@ FAM
+1 HUSB @I99@
+1 WIFE @I67@
+1 MARR
+2 DATE ABT 1887
+2 PLAC Omaha, Nebraska, United States
+1 CHIL @I100@
+0 @F24@ FAM
+1 HUSB @I93@
+1 WIFE @I101@
+1 MARR
+2 DATE ABT 1933
+2 PLAC Portland, Oregon, United States
+1 CHIL @I102@
+1 CHIL @I103@
+1 CHIL @I104@
+0 @F25@ FAM
+1 HUSB @I105@
+1 WIFE @I28@
+1 MARR
+2 DATE ABT 1850
+2 PLAC Toronto, Ontario, Canada
+1 CHIL @I106@
+1 CHIL @I107@
+0 @F26@ FAM
+1 HUSB @I108@
+1 WIFE @I75@
+1 MARR
+2 DATE 3 MAR 1731
+2 PLAC Copenhagen, Denmark
+1 CHIL @I109@
+1 CHIL @I110@
+1 CHIL @I111@
+0 @F27@ FAM
+1 HUSB @I92@
+1 WIFE @I112@
+1 MARR
+2 DATE 1 JUN 1926
+2 PLAC Winnipeg, Manitoba, Canada
+1 CHIL @I113@
+1 CHIL @I114@
+1 CHIL @I115@
+0 @F28@ FAM
+1 HUSB @I116@
+1 WIFE @I104@
+1 MARR
+2 DATE 20 JAN 1964
+2 PLAC Omaha, Nebraska, United States
+1 CHIL @I117@
+1 CHIL @I118@
+1 CHIL @I119@
+0 @F29@ FAM
+1 HUSB @I120@
+1 WIFE @I111@
+1 MARR
+2 DATE 7 OCT 1767
+2 PLAC Copenhagen, Denmark
+1 CHIL @I121@
+1 CHIL @I122@
+1 CHIL @I123@
+0 @F30@ FAM
+1 HUSB @I124@
+1 WIFE @I47@
+1 MARR
+2 DATE 19 APR 1969
+2 PLAC Omaha, Nebraska, United States
+1 CHIL @I125@
+0 @F31@ FAM
+1 HUSB @I109@
+1 WIFE @I126@
+1 MARR
+2 DATE 25 MAY 1759
+2 PLAC Rotterdam, Netherlands
+1 CHIL @I127@
+1 CHIL @I128@
+1 CHIL @I129@
+1 CHIL @I130@
+0 @F32@ FAM
+1 HUSB @I84@
+1 WIFE @I131@
+1 MARR
+2 DATE 15 OCT 1752
+2 PLAC Copenhagen, Denmark
+1 CHIL @I132@
+1 CHIL @I133@
+1 CHIL @I134@
+1 CHIL @I135@
+1 CHIL @I136@
+1 CHIL @I137@
+0 @F33@ FAM
+1 HUSB @I14@
+1 WIFE @I138@
+1 MARR
+2 DATE 1747
+2 PLAC Bordeaux, France
+1 CHIL @I139@
+0 @F34@ FAM
+1 HUSB @I102@
+1 WIFE @I140@
+1 MARR
+2 DATE 2 JUN 1958
+2 PLAC Seattle, Washington, United States
+1 CHIL @I141@
+1 CHIL @I142@
+1 CHIL @I143@
+0 @F35@ FAM
+1 HUSB @I144@
+1 WIFE @I125@
+1 MARR
+2 DATE 6 JUL 2001
+2 PLAC Omaha, Nebraska, United States
+1 CHIL @I145@
+1 CHIL @I146@
+1 CHIL @I147@
+0 @F36@ FAM
+1 HUSB @I148@
+1 WIFE @I103@
+1 MARR
+2 DATE 2 JAN 1961
+2 PLAC Portland, Oregon, United States
+1 CHIL @I149@
+1 CHIL @I150@
+1 CHIL @I151@
+0 @F37@ FAM
+1 HUSB @I152@
+1 WIFE @I27@
+1 MARR
+2 DATE 28 DEC 1848
+2 PLAC Liverpool, England, United Kingdom
+1 CHIL @I153@
+1 CHIL @I154@
+0 @F38@ FAM
+1 HUSB @I133@
+1 WIFE @I155@
+1 MARR
+2 DATE 28 FEB 1781
+2 PLAC Copenhagen, Denmark
+1 CHIL @I156@
+1 CHIL @I157@
+1 CHIL @I158@
+0 @F39@ FAM
+1 HUSB @I159@
+1 WIFE @I130@
+1 MARR
+2 DATE 1796
+2 PLAC Rotterdam, Netherlands
+1 CHIL @I160@
+1 CHIL @I161@
+1 CHIL @I162@
+1 CHIL @I163@
+1 CHIL @I164@
+0 @F40@ FAM
+1 HUSB @I80@
+1 WIFE @I165@
+1 MARR
+2 DATE 1738
+2 PLAC Bordeaux, France
+1 CHIL @I166@
+1 CHIL @I167@
+0 @F41@ FAM
+1 HUSB @I158@
+1 WIFE @I168@
+1 MARR
+2 DATE 11 OCT 1818
+2 PLAC Copenhagen, Denmark
+1 CHIL @I169@
+1 CHIL @I170@
+0 @F42@ FAM
+1 HUSB @I119@
+1 WIFE @I171@
+1 MARR
+2 DATE 3 NOV 1993
+2 PLAC Chicago, Illinois, United States
+1 CHIL @I172@
+1 CHIL @I173@
+0 @F43@ FAM
+1 HUSB @I174@
+1 WIFE @I61@
+1 MARR
+2 DATE 6 AUG 1777
+2 PLAC Bordeaux, France
+1 CHIL @I175@
+0 @F44@ FAM
+1 HUSB @I122@
+1 WIFE @I176@
+1 MARR
+2 DATE ABT 1802
+2 PLAC Lyon, France
+1 CHIL @I177@
+1 CHIL @I178@
+1 CHIL @I179@
+1 CHIL @I180@
+1 CHIL @I181@
+1 CHIL @I182@
+0 @F45@ FAM
+1 HUSB @I183@
+1 WIFE @I63@
+1 MARR
+2 DATE 24 APR 1878
+2 PLAC Omaha, Nebraska, United States
+1 CHIL @I184@
+1 CHIL @I185@
+1 CHIL @I186@
+1 CHIL @I187@
+0 @F46@ FAM
+1 HUSB @I188@
+1 WIFE @I166@
+1 MARR
+2 DATE 9 JUN 1764
+2 PLAC Bordeaux, France
+1 CHIL @I189@
+1 CHIL @I190@
+1 CHIL @I191@
+1 CHIL @I192@
+0 @F47@ FAM
+1 HUSB @I91@
+1 WIFE @I193@
+1 MARR
+2 DATE 18 JAN 1925
+2 PLAC St. Louis, Missouri, United States
+1 CHIL @I194@
+1 CHIL @I195@
+0 @F48@ FAM
+1 HUSB @I196@
+1 WIFE @I58@
+1 MARR
+2 DATE ABT 1776
+2 PLAC Bordeaux, France
+1 CHIL @I197@
+1 CHIL @I198@
+1 CHIL @I199@
+1 CHIL @I200@
+1 CHIL @I201@
+0 @F49@ FAM
+1 HUSB @I177@
+1 WIFE @I202@
+1 MARR
+2 DATE 1827
+2 PLAC Hamburg, Germany
+1 CHIL @I203@
+1 CHIL @I204@
+1 CHIL @I205@
+0 @F50@ FAM
+1 HUSB @I206@
+1 WIFE @I160@
+1 MARR
+2 DATE 16 JAN 1827
+2 PLAC Rotterdam, Netherlands
+1 CHIL @I207@
+1 CHIL @I208@
+1 CHIL @I209@
+1 CHIL @I210@
+1 CHIL @I211@
+1 CHIL @I212@
+0 @F51@ FAM
+1 HUSB @I213@
+1 WIFE @I189@
+1 MARR
+2 DATE 11 JAN 1797
+2 PLAC Gothenburg, Sweden
+1 CHIL @I214@
+1 CHIL @I215@
+1 CHIL @I216@
+0 @F52@ FAM
+1 HUSB @I217@
+1 WIFE @I110@
+1 MARR
+2 DATE 1762
+2 PLAC Copenhagen, Denmark
+1 CHIL @I218@
+1 CHIL @I219@
+0 @F53@ FAM
+1 HUSB @I220@
+1 WIFE @I32@
+1 MARR
+2 DATE 19 AUG 1867
+2 PLAC Seattle, Washington, United States
+1 CHIL @I221@
+1 CHIL @I222@
+1 CHIL @I223@
+1 CHIL @I224@
+1 CHIL @I225@
+1 CHIL @I226@
+0 @F54@ FAM
+1 HUSB @I227@
+1 WIFE @I199@
+1 MARR
+2 DATE ABT 1804
+2 PLAC Bordeaux, France
+1 CHIL @I228@
+1 CHIL @I229@
+1 CHIL @I230@
+0 @F55@ FAM
+1 HUSB @I192@
+1 WIFE @I231@
+1 MARR
+2 DATE 9 JUL 1799
+2 PLAC Amsterdam, Netherlands
+1 CHIL @I232@
+1 CHIL @I233@
+1 CHIL @I234@
+0 @F56@ FAM
+1 HUSB @I178@
+1 WIFE @I235@
+1 MARR
+2 DATE 16 JUL 1830
+2 PLAC Lyon, France
+1 CHIL @I236@
+1 CHIL @I237@
+0 @F57@ FAM
+1 HUSB @I74@
+1 WIFE @I238@
+1 MARR
+2 DATE 8 MAR 1727
+2 PLAC Copenhagen, Denmark
+1 CHIL @I239@
+1 CHIL @I240@
+0 @F58@ FAM
+1 HUSB @I241@
+1 WIFE @I210@
+1 MARR
+2 DATE 1860
+2 PLAC Chicago, Illinois, United States
+1 CHIL @I242@
+1 CHIL @I243@
+1 CHIL @I244@
+1 CHIL @I245@
+0 @F59@ FAM
+1 HUSB @I246@
+1 WIFE @I164@
+1 MARR
+2 DATE 7 JAN 1837
+2 PLAC Hamburg, Germany
+1 CHIL @I247@
+1 CHIL @I248@
+1 CHIL @I249@
+0 @F60@ FAM
+1 HUSB @I250@
+1 WIFE @I123@
+1 MARR
+2 DATE 27 APR 1804
+2 PLAC Bordeaux, France
+1 CHIL @I251@
+1 CHIL @I252@
+1 CHIL @I253@
+0 @F61@ FAM
+1 HUSB @I127@
+1 WIFE @I254@
+1 MARR
+2 DATE 20 JUN 1791
+2 PLAC Rotterdam, Netherlands
+1 CHIL @I255@
+0 @F62@ FAM
+1 HUSB @I256@
+1 WIFE @I107@
+1 MARR
+2 DATE ABT 1882
+2 PLAC Seattle, Washington, United States
+1 CHIL @I257@
+1 CHIL @I258@
+0 @F63@ FAM
+1 HUSB @I169@
+1 WIFE @I259@
+1 MARR
+2 DATE 4 JUL 1846
+2 PLAC Copenhagen, Denmark
+1 CHIL @I260@
+1 CHIL @I261@
+1 CHIL @I262@
+1 CHIL @I263@
+0 @F64@ FAM
+1 HUSB @I264@
+1 WIFE @I204@
+1 MARR
+2 DATE 1863
+2 PLAC Winnipeg, Manitoba, Canada
+1 CHIL @I265@
+1 CHIL @I266@
+0 @F65@ FAM
+1 HUSB @I267@
+1 WIFE @I113@
+1 MARR
+2 DATE 11 JUN 1953
+2 PLAC Winnipeg, Manitoba, Canada
+1 CHIL @I268@
+1 CHIL @I269@
+1 CHIL @I270@
+0 @F66@ FAM
+1 HUSB @I207@
+1 WIFE @I271@
+1 MARR
+2 DATE ABT 1857
+2 PLAC Portland, Oregon, United States
+1 CHIL @I272@
+1 CHIL @I273@
+0 @F67@ FAM
+1 HUSB @I274@
+1 WIFE @I132@
+1 MARR
+2 DATE 5 JUN 1785
+2 PLAC Copenhagen, Denmark
+1 CHIL @I275@
+0 @F68@ FAM
+1 HUSB @I39@
+1 WIFE @I276@
+1 MARR
+2 DATE 2 MAR 1905
+2 PLAC Portland, Oregon, United States
+1 CHIL @I277@
+1 CHIL @I278@
+1 CHIL @I279@
+1 CHIL @I280@
+1 CHIL @I281@
+1 CHIL @I282@
+0 @F69@ FAM
+1 HUSB @I283@
+1 WIFE @I114@
+1 MARR
+2 DATE 18 MAR 1955
+2 PLAC New York, New York, United States
+1 CHIL @I284@
+1 CHIL @I285@
+1 CHIL @I286@
+0 @F70@ FAM
+1 HUSB @I287@
+1 WIFE @I239@
+1 MARR
+2 DATE 5 MAY 1757
+2 PLAC Lyon, France
+1 CHIL @I288@
+1 CHIL @I289@
+1 CHIL @I290@
+1 CHIL @I291@
+1 CHIL @I292@
+1 CHIL @I293@
+0 @F71@ FAM
+1 HUSB @I257@
+1 WIFE @I294@
+1 MARR
+2 DATE 8 MAR 1911
+2 PLAC St. Louis, Missouri, United States
+1 CHIL @I295@
+0 @F72@ FAM
+1 HUSB @I161@
+1 WIFE @I296@
+1 MARR
+2 DATE 19 MAY 1826
+2 PLAC Liverpool, England, United Kingdom
+1 CHIL @I297@
+1 CHIL @I298@
+1 CHIL @I299@
+1 CHIL @I300@
+1 CHIL @I301@
+0 @F73@ FAM
+1 HUSB @I48@
+1 WIFE @I302@
+1 MARR
+2 DATE 6 MAY 1964
+2 PLAC Portland, Oregon, United States
+1 CHIL @I303@
+1 CHIL @I304@
+1 CHIL @I305@
+0 @F74@ FAM
+1 HUSB @I306@
+1 WIFE @I281@
+1 MARR
+2 DATE 11 AUG 1945
+2 PLAC Portland, Oregon, United States
+1 CHIL @I307@
+1 CHIL @I308@
+1 CHIL @I309@
+0 @F75@ FAM
+1 HUSB @I310@
+1 WIFE @I89@
+1 MARR
+2 DATE ABT 1932
+2 PLAC Boston, Massachusetts, United States
+1 CHIL @I311@
+1 CHIL @I312@
+1 CHIL @I313@
+0 @F76@ FAM
+1 HUSB @I314@
+1 WIFE @I309@
+1 MARR
+2 DATE ABT 1983
+2 PLAC Minneapolis, Minnesota, United States
+1 CHIL @I315@
+0 @F77@ FAM
+1 HUSB @I316@
+1 WIFE @I225@
+1 MARR
+2 DATE 1909
+2 PLAC Seattle, Washington, United States
+1 CHIL @I317@
+0 @F78@ FAM
+1 HUSB @I318@
+1 WIFE @I94@
+1 MARR
+2 DATE 16 MAY 1934
+2 PLAC New York, New York, United States
+1 CHIL @I319@
+1 CHIL @I320@
+1 CHIL @I321@
+0 @F79@ FAM
+1 HUSB @I73@
+1 WIFE @I322@
+1 MARR
+2 DATE 25 APR 1729
+2 PLAC Bremen, Germany
+1 CHIL @I323@
+1 CHIL @I324@
+1 CHIL @I325@
+0 @F80@ FAM
+1 HUSB @I326@
+1 WIFE @I83@
+1 MARR
+2 DATE ABT 1748
+2 PLAC Liverpool, England, United Kingdom
+1 CHIL @I327@
+0 @F81@ FAM
+1 HUSB @I328@
+1 WIFE @I82@
+1 MARR
+2 DATE 8 APR 1747
+2 PLAC Hamburg, Germany
+1 CHIL @I329@
+1 CHIL @I330@
+1 CHIL @I331@
+1 CHIL @I332@
+1 CHIL @I333@
+0 @F82@ FAM
+1 HUSB @I334@
+1 WIFE @I143@
+1 MARR
+2 DATE 10 JUL 1990
+2 PLAC Omaha, Nebraska, United States
+1 CHIL @I335@
+1 CHIL @I336@
+0 @F83@ FAM
+1 HUSB @I266@
+1 WIFE @I337@
+1 MARR
+2 DATE ABT 1900
+2 PLAC St. Louis, Missouri, United States
+1 CHIL @I338@
+1 CHIL @I339@
+1 CHIL @I340@
+1 CHIL @I341@
+1 CHIL @I342@
+1 CHIL @I343@
+0 @F84@ FAM
+1 HUSB @I9@
+1 WIFE @I344@
+1 MARR
+2 DATE 10 MAR 1728
+2 PLAC Bremen, Germany
+1 CHIL @I345@
+0 @F85@ FAM
+1 HUSB @I346@
+1 WIFE @I163@
+1 MARR
+2 DATE ABT 1835
+2 PLAC Rotterdam, Netherlands
+1 CHIL @I347@
+1 CHIL @I348@
+1 CHIL @I349@
+1 CHIL @I350@
+1 CHIL @I351@
+1 CHIL @I352@
+0 @F86@ FAM
+1 HUSB @I353@
+1 WIFE @I315@
+1 MARR
+2 DATE ABT 2015
+2 PLAC Minneapolis, Minnesota, United States
+1 CHIL @I354@
+1 CHIL @I355@
+1 CHIL @I356@
+0 @F87@ FAM
+1 HUSB @I357@
+1 WIFE @I280@
+1 MARR
+2 DATE 1 SEP 1940
+2 PLAC Chicago, Illinois, United States
+1 CHIL @I358@
+1 CHIL @I359@
+1 CHIL @I360@
+0 @F88@ FAM
+1 HUSB @I293@
+1 WIFE @I361@
+1 MARR
+2 DATE 12 JUL 1790
+2 PLAC Lyon, France
+1 CHIL @I362@
+0 @F89@ FAM
+1 HUSB @I182@
+1 WIFE @I363@
+1 MARR
+2 DATE 14 APR 1841
+2 PLAC Lyon, France
+1 CHIL @I364@
+1 CHIL @I365@
+0 @F90@ FAM
+1 HUSB @I366@
+1 WIFE @I275@
+1 MARR
+2 DATE 6 MAR 1812
+2 PLAC Copenhagen, Denmark
+1 CHIL @I367@
+1 CHIL @I368@
+0 @F91@ FAM
+1 HUSB @I232@
+1 WIFE @I369@
+1 MARR
+2 DATE 1831
+2 PLAC Bremen, Germany
+1 CHIL @I370@
+1 CHIL @I371@
+0 @F92@ FAM
+1 HUSB @I372@
+1 WIFE @I352@
+1 MARR
+2 DATE 6 APR 1880
+2 PLAC Toronto, Ontario, Canada
+1 CHIL @I373@
+1 CHIL @I374@
+1 CHIL @I375@
+0 @F93@ FAM
+1 HUSB @I376@
+1 WIFE @I134@
+1 MARR
+2 DATE 27 FEB 1785
+2 PLAC Copenhagen, Denmark
+1 CHIL @I377@
+1 CHIL @I378@
+1 CHIL @I379@
+0 @F94@ FAM
+1 HUSB @I380@
+1 WIFE @I214@
+1 MARR
+2 DATE 1821
+2 PLAC Gothenburg, Sweden
+1 CHIL @I381@
+1 CHIL @I382@
+0 @F95@ FAM
+1 HUSB @I249@
+1 WIFE @I383@
+1 MARR
+2 DATE ABT 1865
+2 PLAC Omaha, Nebraska, United States
+1 CHIL @I384@
+1 CHIL @I385@
+1 CHIL @I386@
+1 CHIL @I387@
+1 CHIL @I388@
+0 @F96@ FAM
+1 HUSB @I389@
+1 WIFE @I320@
+1 MARR
+2 DATE 22 DEC 1960
+2 PLAC Portland, Oregon, United States
+1 CHIL @I390@
+1 CHIL @I391@
+1 CHIL @I392@
+0 @F97@ FAM
+1 HUSB @I393@
+1 WIFE @I308@
+1 MARR
+2 DATE 7 OCT 1978
+2 PLAC Toronto, Ontario, Canada
+1 CHIL @I394@
+1 CHIL @I395@
+1 CHIL @I396@
+0 @F98@ FAM
+1 HUSB @I297@
+1 WIFE @I397@
+1 MARR
+2 DATE 1 FEB 1857
+2 PLAC New York, New York, United States
+1 CHIL @I398@
+1 CHIL @I399@
+0 @F99@ FAM
+1 HUSB @I400@
+1 WIFE @I162@
+1 MARR
+2 DATE 17 JUL 1830
+2 PLAC Bergen, Norway
+1 CHIL @I401@
+1 CHIL @I402@
+1 CHIL @I403@
+1 CHIL @I404@
+1 CHIL @I405@
+1 CHIL @I406@
+0 @F100@ FAM
+1 HUSB @I407@
+1 WIFE @I200@
+1 MARR
+2 DATE 1811
+2 PLAC Lyon, France
+1 CHIL @I408@
+1 CHIL @I409@
+1 CHIL @I410@
+0 @F101@ FAM
+1 HUSB @I20@
+1 WIFE @I411@
+1 MARR
+2 DATE 12 JUN 1787
+2 PLAC Hamburg, Germany
+1 CHIL @I412@
+1 CHIL @I413@
+1 CHIL @I414@
+0 @F102@ FAM
+1 HUSB @I175@
+1 WIFE @I415@
+1 MARR
+2 DATE 21 AUG 1807
+2 PLAC Copenhagen, Denmark
+1 CHIL @I416@
+1 CHIL @I417@
+1 CHIL @I418@
+1 CHIL @I419@
+1 CHIL @I420@
+0 TRLR

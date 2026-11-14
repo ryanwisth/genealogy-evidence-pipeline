@@ -1,0 +1,6 @@
+Example National Census Index - 1880 - District 7 - Sheet 112
+Line | Name | Relation | Age | Occupation
+17 | Jacob Orbeline | Head | 41 | Farmer
+18 | Marta Orbeline | Wife | 38 | Keeping house
+19 | Anna Orbeline | Daughter | 4 |
+20 | Karl Orbeline | Son | 2 |
