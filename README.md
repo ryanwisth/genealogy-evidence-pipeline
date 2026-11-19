@@ -2,6 +2,8 @@
 
 Grows a family tree only from records: AI agents propose additions, free Python checks what code can check, a second model tries to refute each claim, and accepted facts go into an append-only ledger with the quote they rest on.
 
+**Plain-words write-up:** [A family tree built only from real records](https://ryanwisth.github.io/evidence-pipeline.html)
+
 ## Why it exists
 
 Online family trees copy each other. A "source" on a big genealogy site is often just another user's tree, so two trees agreeing is not evidence; it is often the same mistake copied twice. This project extends a tree the other way round. Every new person, parent link or date must cite a primary record (a register entry, a census line, a headstone), quote it, tie it to the tree person by at least two identifiers, and survive an adversarial check. Nothing in the original tree is ever deleted. It came out of cleaning and then researching a private tree with tens of thousands of records. This repository runs end to end on an invented 420-person family.
